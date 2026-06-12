@@ -1,0 +1,10 @@
+{
+  "channels": [
+    "C1_Deutsch",
+    "doch_ffm"
+  ],
+  "max_feed_items": 10,
+  "messages_to_fetch": 10,
+  "github_repository": "shadrunov/rssfy-telegram",
+  "github_branch": "main"
+}
