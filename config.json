@@ -13,8 +13,8 @@
     "casadeutsch",
     "ekaterinalivinglife"
   ],
-  "max_feed_items": 5,
-  "messages_to_fetch": 5,
+  "max_feed_items": 10,
+  "messages_to_fetch": 10,
   "github_repository": "shadrunov/rssfy-telegram",
   "github_branch": "main"
 }
