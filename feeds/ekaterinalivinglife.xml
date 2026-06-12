@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Катя живет эту жизнь</title>
+    <link>https://t.me/ekaterinalivinglife</link>
+    <description>RSS feed for Telegram channel @ekaterinalivinglife</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Jun 2026 16:19:28 +0000</lastBuildDate>
+    <item>
+      <title>Очень нравятся мусорки в Гамбурге 👀</title>
+      <link>https://t.me/ekaterinalivinglife/525</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/ekaterinalivinglife/525.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/ekaterinalivinglife/526.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/ekaterinalivinglife/527.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/ekaterinalivinglife/528.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/ekaterinalivinglife/529.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/ekaterinalivinglife/530.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/ekaterinalivinglife/531.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/ekaterinalivinglife/532.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Очень нравятся мусорки в Гамбурге 👀&lt;br&gt;
+&lt;/b&gt;&lt;br&gt;
+На них всегда разные смешные и прикольные надписи:&lt;br&gt;
+«Мы должны видеться чаще»&lt;br&gt;
+«Когда я вырасту, стану контейнером»&lt;br&gt;
+«Я не хочу шоколад, мне лучше бумагу»&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+Т&lt;i&gt;акая вот мотивация не мусорить от города 🚯</description>
+      <guid isPermaLink="false">https://t.me/ekaterinalivinglife/525</guid>
+      <pubDate>Tue, 24 Feb 2026 10:57:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post #523</title>
+      <link>https://t.me/ekaterinalivinglife/523</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/ekaterinalivinglife/523.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/ekaterinalivinglife/524.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/ekaterinalivinglife/523</guid>
+      <pubDate>Wed, 18 Feb 2026 07:38:45 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Виталина в стране сосисок</title>
+    <link>https://t.me/mskVitaliiChannel</link>
+    <description>RSS feed for Telegram channel @mskVitaliiChannel</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Jun 2026 16:19:05 +0000</lastBuildDate>
+    <item>
+      <title>Как я в Google собесился ☺️</title>
+      <link>https://t.me/mskVitaliiChannel/203</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mskVitaliiChannel/203.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mskVitaliiChannel/204.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mskVitaliiChannel/205.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Как я в Google собесился&lt;/b&gt; ☺️&lt;br&gt;
+&lt;br&gt;
+23.04 написали в LinkedIn&lt;br&gt;
+27.04 созвон HR, определили позицию на L4 инженера&lt;br&gt;
+28.04 поставил себе таймслот через неделю&lt;br&gt;
+05.05 собес на алгосы и behavioral интервьюшка (&lt;i&gt;±час каждая&lt;/i&gt;)&lt;br&gt;
+&lt;br&gt;
+Готовится к алгосам начал 23-го с той секунды, как ответил на сообщеньку&lt;br&gt;
+&lt;br&gt;
+Решил 100 easy/medium задач на LeetCode —&amp;gt; &lt;a href="https://mskkote.notion.site/LeetCode-34cd310f71638073ac5cdea18f5236e5"&gt;ссылка&lt;/a&gt;&lt;br&gt;
+Чекал гайд —&amp;gt; &lt;a href="https://www.google.com/about/careers/applications/candidate-prep/swe"&gt;ссылка&lt;/a&gt;&lt;br&gt;
+&lt;br&gt;
+Попалась задачка на графы 😈:&lt;br&gt;
+найти минимальное кол-во нод, которые нужно пройти из А в Б. Расстояние по рёбрам считать не нужно, всё просто, не Дейкстра — решил через BFS, сказал, что всё ок, интервьюер дал последовательность нод как пример для дебага — без слов уловил, что в графах есть циклы, отмечал посещённые ноды, поставил посчитал сложность, всё прошло нормально&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+Через 15 минут часть behavioral — разговоры за опыт. Я не в силах скрыть свой мандраж рассказал неубедительные истории, как мне показалось&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+По фидбэку мне теперь нельзя приближаться к гуглу следующие 12 месяцев...&lt;br&gt;
+• behavioral — сказали, всё хорошо прошёл вопреки моим ожиданиям&lt;br&gt;
+• по алгосам — сказали poor debugging skills (с&lt;i&gt;корее всего из-за того, что сам не додумался про циклы в моменте)&lt;/i&gt;&lt;br&gt;
+&lt;br&gt;
+Страшной ненавистью люблю алгоритмы 💔</description>
+      <guid isPermaLink="false">https://t.me/mskVitaliiChannel/203</guid>
+      <pubDate>Fri, 29 May 2026 21:54:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post #196</title>
+      <link>https://t.me/mskVitaliiChannel/196</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mskVitaliiChannel/196.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mskVitaliiChannel/197.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mskVitaliiChannel/198.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mskVitaliiChannel/199.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mskVitaliiChannel/200.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mskVitaliiChannel/201.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mskVitaliiChannel/202.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/mskVitaliiChannel/196</guid>
+      <pubDate>Wed, 01 Apr 2026 17:55:28 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
