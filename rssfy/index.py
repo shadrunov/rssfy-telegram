@@ -7,28 +7,35 @@ from pathlib import Path
 
 def generate_feeds_index(
     channels: list[str],
+    github_repo: str,
+    github_branch: str,
     output_path: Path = Path("FEEDS.md"),
 ) -> None:
     """
-    Write FEEDS.md with a table listing every channel and its local RSS feed path.
+    Write FEEDS.md with a table listing every channel and its RSS feed URL.
 
     Args:
-        channels:    List of Telegram channel usernames.
-        output_path: Destination path for the generated Markdown file.
+        channels:      List of Telegram channel usernames.
+        github_repo:   GitHub repository in "owner/repo" form.
+        github_branch: Branch name (e.g. "main").
+        output_path:   Destination path for the generated Markdown file.
     """
     lines: list[str] = [
         "# RSS Feeds",
         "",
         "Auto-generated index of all Telegram channel RSS feeds.",
         "",
-        "| Channel | Telegram | RSS Feed |",
-        "|---------|----------|----------|",
+        "| Channel | RSS Feed |",
+        "|---------|----------|",
     ]
 
     for channel in channels:
-        telegram_url = f"https://t.me/{channel}"
-        feed_cell = f"`feeds/{channel}.xml`"
-        lines.append(f"| @{channel} | [{telegram_url}]({telegram_url}) | {feed_cell} |")
+        raw_url = (
+            f"https://raw.githubusercontent.com/{github_repo}"
+            f"/refs/heads/{github_branch}/feeds/{channel}.xml"
+        )
+        feed_cell = f"[`feeds/{channel}.xml`]({raw_url})"
+        lines.append(f"| @{channel} | {feed_cell} |")
 
     lines += [
         "",

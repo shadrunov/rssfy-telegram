@@ -22,7 +22,11 @@ def main() -> None:
     )
 
     # Regenerate the FEEDS.md index
-    generate_feeds_index(channels=config.channels)
+    generate_feeds_index(
+        channels=config.channels,
+        github_repo=config.github_repository,
+        github_branch=config.github_branch,
+    )
 
 
 if __name__ == "__main__":
