@@ -7,7 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 16:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 19:03:01 +0000</lastBuildDate>
+    <item>
+      <title>Киносообщество «ЛУЧ» продолжает опен-колл на участие в фестивале аналогового ...</title>
+      <link>https://t.me/kinoartru/13326</link>
+      <description>&lt;p&gt;[Document/Video]&lt;/p&gt;
+Киносообщество &lt;a href="https://t.me/luchmir"&gt;«ЛУЧ»&lt;/a&gt; продолжает опен-колл на участие в фестивале аналогового кино. &lt;br&gt;
+&lt;br&gt;
+Ждут фильмы, снятые на пленку 8, 16 или 35 мм. Хронометраж и формат традиционно опциональны: фокус делается не столько на содержание, сколько на открытость к формальным экспериментам. &lt;br&gt;
+&lt;br&gt;
+Дедлайн — 30 июля. Подать заявку на участие можно &lt;a href="https://forms.gle/x5xBeSytznb3wp8w8"&gt;по ссылке.&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/kinoartru/13326</guid>
+      <pubDate>Fri, 12 Jun 2026 17:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post #13317</title>
+      <link>https://t.me/kinoartru/13317</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kinoartru/13317.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/kinoartru/13317</guid>
+      <pubDate>Wed, 10 Jun 2026 10:13:40 +0000</pubDate>
+    </item>
     <item>
       <title>Константину Лопушанскому — 79.</title>
       <link>https://t.me/kinoartru/13325</link>
@@ -122,14 +141,6 @@
 Фестиваль пройдет в Иваново с 26 по 30 июня.</description>
       <guid isPermaLink="false">https://t.me/kinoartru/13318</guid>
       <pubDate>Wed, 10 Jun 2026 12:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #13316</title>
-      <link>https://t.me/kinoartru/13316</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kinoartru/13316.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kinoartru/13317.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/kinoartru/13316</guid>
-      <pubDate>Wed, 10 Jun 2026 10:13:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
