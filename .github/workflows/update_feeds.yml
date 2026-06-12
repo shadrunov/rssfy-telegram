@@ -44,5 +44,5 @@ jobs:
             echo "No feed changes to commit."
           else
             git commit -m "chore: update RSS feeds [skip ci]"
-            git push
+            git push --force
           fi

@@ -3,8 +3,16 @@
 from __future__ import annotations
 
 import os
+import re
 from collections import defaultdict
 from pathlib import Path
+
+# Posts whose text matches any of these patterns (case-insensitive) are skipped.
+_SKIP_PATTERNS: list[re.Pattern] = [
+    re.compile(r"\*реклама\*", re.IGNORECASE),
+    re.compile(r"разыгрыв", re.IGNORECASE),
+    re.compile(r"стоимость", re.IGNORECASE),
+]
 
 from telethon import TelegramClient
 from telethon.sessions import StringSession
@@ -168,6 +176,12 @@ async def process_channel(
 
         if entry["description"] == "(no text)":
             print(f"  - skipped {entry['link']} (no text, no media)")
+            continue
+
+        post_text = representative.text or ""
+        matched = next((p for p in _SKIP_PATTERNS if p.search(post_text)), None)
+        if matched:
+            print(f"  - skipped {entry['link']} (filtered: {matched.pattern!r})")
             continue
 
         new_entries.append(entry)
