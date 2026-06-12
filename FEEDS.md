@@ -2,10 +2,10 @@
 
 Auto-generated index of all Telegram channel RSS feeds.
 
-| Channel | Telegram | RSS Feed |
-|---------|----------|----------|
-| @C1_Deutsch | [https://t.me/C1_Deutsch](https://t.me/C1_Deutsch) | `feeds/C1_Deutsch.xml` |
-| @doch_ffm | [https://t.me/doch_ffm](https://t.me/doch_ffm) | `feeds/doch_ffm.xml` |
+| Channel | RSS Feed |
+|---------|----------|
+| @C1_Deutsch | [`feeds/C1_Deutsch.xml`](https://raw.githubusercontent.com/shadrunov/rssfy-telegram/refs/heads/main/feeds/C1_Deutsch.xml) |
+| @doch_ffm | [`feeds/doch_ffm.xml`](https://raw.githubusercontent.com/shadrunov/rssfy-telegram/refs/heads/main/feeds/doch_ffm.xml) |
 
 ---
 
