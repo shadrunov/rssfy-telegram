@@ -8,7 +8,7 @@ Each public Telegram channel gets its own RSS feed file committed to this reposi
 
 ## How It Works
 
-1. A GitHub Actions cron job runs every 30 minutes.
+1. A GitHub Actions cron job runs every hour.
 2. [`main.py`](main.py) connects to Telegram using the [Telethon](https://github.com/LonamiWebs/Telethon) library and a pre-generated `StringSession`.
 3. For each channel in [`config.json`](config.json), it fetches the latest messages.
 4. New messages (not already in the feed) are prepended to the existing feed.
