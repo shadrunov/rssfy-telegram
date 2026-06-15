@@ -7,7 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 03:59:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:30:06 +0000</lastBuildDate>
+    <item>
+      <title>Берлинская CDU (а она в городе у власти) выступила за турникеты в метро</title>
+      <link>https://t.me/genau/2230</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2230.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Берлинская CDU (а она в городе у власти) выступила за турникеты в метро&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;&lt;br&gt;
+&lt;/b&gt;Одно из требований горожан, которое все чаще доходит до ушей политиков — это навести порядок в общественном транспорте, который кажется все более небезопасным местом. Партия CDU &lt;a href="https://www.tagesspiegel.de/berlin/erprobung-auf-den-linien-u5-u7-u8-berliner-cdu-will-zugangssperren-zur-u-bahn-erproben-lassen-15712348.html"&gt;предлагает&lt;/a&gt; внедрить в берлинском метро старые добрые турникеты — сначала как пилотный проект на линиях U5, U7 и U8.&lt;br&gt;
+&lt;br&gt;
+«Мы хотим сделать берлинское метро более безопасным, чистым и надежным. Закрытая система метро с турникетами на входе снизит проблему с безбилетным проездом и вандализмом и заметно повысит чувство безопасности у пассажиров», — говорит по этому поводу председатель фракции СDU в городском парламенте Дирк Штеттнер.&lt;br&gt;
+&lt;br&gt;
+Когда эти турникеты могут появиться и сколько это будет стоить, совершенно непонятно — вряд ли какие-то решения будут приняты до сентябрьских выборов. Но долгосрочная стратегия CDU выглядит так — метро, в которое пускают только по билетам, записали.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2230</guid>
+      <pubDate>Mon, 15 Jun 2026 08:19:23 +0000</pubDate>
+    </item>
     <item>
       <title>Власти продают остров на самом большом берлинском озере — с руинами, бобрами ...</title>
       <link>https://t.me/genau/2225</link>
@@ -168,13 +184,6 @@ Cудьба Булочки еще не определена — пока она 
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2216</guid>
       <pubDate>Wed, 10 Jun 2026 13:35:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2222</title>
-      <link>https://t.me/genau/2222</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2222.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2222</guid>
-      <pubDate>Thu, 11 Jun 2026 11:28:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
