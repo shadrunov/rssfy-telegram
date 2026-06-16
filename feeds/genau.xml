@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 03:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 09:24:20 +0000</lastBuildDate>
+    <item>
+      <title>Весь центр Потсдама перекрыт и эвакуирован. Там пытаются обезвредить 250-кило...</title>
+      <link>https://t.me/genau/2235</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2235.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Весь центр Потсдама перекрыт и эвакуирован. Там пытаются обезвредить 250-килограммовую американскую бомбу времен второй мировой&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+У кого какие-то дела в Потсдаме, тому остается только посочувствовать — из центра города эвакуировали даже дома престарелых. Главный вокзал, земельный парламент, множество отелей и магазинов — всё закрыто. &lt;br&gt;
+&lt;br&gt;
+Саперы работают над обезвреживанием американской бомбы, обнаруженной в бывших подвалах пивоварни при строительстве (это тоже некоторая загадка — центр Потсдама бомбили как раз британцы, но был и небольшой американский налет 21 июня 1944 года).&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2235</guid>
+      <pubDate>Tue, 16 Jun 2026 08:34:26 +0000</pubDate>
+    </item>
     <item>
       <title>Мусоровоз опустошил весь кузов в Нойкёльне. Берлинские издания: «На тротуаре ...</title>
       <link>https://t.me/genau/2233</link>
@@ -167,20 +181,6 @@ Cудьба Булочки еще не определена — пока она 
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2221</guid>
       <pubDate>Thu, 11 Jun 2026 11:28:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Карта показывает, где резвится шелкопряд → eichenprozessionsspinner-melden.de</title>
-      <link>https://t.me/genau/2220</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2220.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-Карта показывает, где резвится шелкопряд → &lt;a href="https://eichenprozessionsspinner-melden.de/index.html?city=berlin"&gt;eichenprozessionsspinner-melden.de&lt;/a&gt;&lt;br&gt;
-&lt;br&gt;
-Ее сделала 46-летняя берлинка, посмотрев на волдыри друга своего сына. &lt;br&gt;
-&lt;br&gt;
-Обновляется фактически круглосуточно самими жителями города.&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2220</guid>
-      <pubDate>Wed, 10 Jun 2026 20:15:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
