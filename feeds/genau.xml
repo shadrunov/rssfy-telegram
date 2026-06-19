@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 14:59:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 17:23:27 +0000</lastBuildDate>
+    <item>
+      <title>Post #2250</title>
+      <link>https://t.me/genau/2250</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2250.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/genau/2250</guid>
+      <pubDate>Thu, 18 Jun 2026 16:13:36 +0000</pubDate>
+    </item>
     <item>
       <title>Havelhöhenweg — это наша Бавария, прекрасная пешеходная тропа в городской чер...</title>
       <link>https://t.me/genau/2254</link>
@@ -151,24 +158,6 @@ Havelhöhenweg — это золотой фонд Берлина. Наслажд
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2238</guid>
       <pubDate>Tue, 16 Jun 2026 20:33:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Технический университет разваливается на глазах. Там за месяц закрывают уже т...</title>
-      <link>https://t.me/genau/2236</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2236.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Технический университет разваливается на глазах. Там за месяц закрывают уже третье здание из-за технических же (извините за каламбур) проблем&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Мы уже &lt;a href="https://t.me/genau/2077"&gt;писали&lt;/a&gt; о кризисе в Техническом университете (TU) — одном из лучших вузов Берлина, он находится в западной части Берлине в зданиях шестидесятых годов постройки. Чуть ли не все эти здания одновременно приходят в негодность, что установила недавно проведенная инспекция (это она не всюду еще пришла). &lt;br&gt;
-&lt;br&gt;
-В начале мая было на неопределенный срок закрыто главное здание университета. Затем, в начале июня, &lt;a href="https://www.tagesspiegel.de/berlin/notstromanlage-defekt-tu-berlin-muss-weiteres-gebaude-schliessen-15686031.html?icid=in-text-link_15711191"&gt;закрыли&lt;/a&gt; библиотеку — чинили аварийную систему электроснабжения. Слава богу, спустя неделю библиотеку открыли. Теперь &lt;a href="https://www.tagesspiegel.de/berlin/nach-hauptgebaude-und-bibliothek-noch-ein-weiteres-gebaude-der-tu-berlin-gesperrt-15711191.html"&gt;закрывают&lt;/a&gt; здание факультета горного дела и металлургии — снова на неопределенный срок. &lt;br&gt;
-&lt;br&gt;
-Проблема в этом случае в старинной системе пожаротушения (она должна при пожаре распылять что-то вроде тумана), которая была признана не функционирующей. К сожалению, это знакомая проблема, у которой пока нет технического решения. Та же система установлена в 21-этажной &lt;a href="https://de.wikipedia.org/wiki/Telefunken-Hochhaus"&gt;высотке&lt;/a&gt; Telefunken неподалеку (в 1965 году – самое высокое здание Берлина), которая тоже используется вузом и закрыта уже больше года.&lt;br&gt;
-&lt;br&gt;
-Вуз оценивает затраты на ремонт всех своих зданий в 2,4 миллиарда евро — теперь кажется, что это чуть ли не заниженная оценка.&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2236</guid>
-      <pubDate>Tue, 16 Jun 2026 11:29:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
