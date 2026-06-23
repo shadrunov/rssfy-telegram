@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 15:16:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 17:51:00 +0000</lastBuildDate>
+    <item>
+      <title>Скажите на стойке волшебное слово GENAU, шот водки будет 2 евро.</title>
+      <link>https://t.me/genau/2265</link>
+      <description>Скажите на стойке волшебное слово GENAU, шот водки будет 2 евро. &lt;br&gt;
+&lt;br&gt;
+&lt;a href="https://t.me/butterflies_and_berliners/170"&gt;https://t.me/butterflies_and_berliners/170&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/genau/2265</guid>
+      <pubDate>Sun, 21 Jun 2026 13:47:28 +0000</pubDate>
+    </item>
     <item>
       <title>Жуткая авария в Пренцлауэр-Берге — на выходившего из трамвая мужчину упал столб</title>
       <link>https://t.me/genau/2273</link>
@@ -140,32 +149,6 @@
 &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2259.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/genau/2258</guid>
       <pubDate>Fri, 19 Jun 2026 15:22:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚍 Как работает кондиционер в автобусах в Берлине</title>
-      <link>https://t.me/genau/2266</link>
-      <description>🚍 К&lt;b&gt;ак работает кондиционер в автобусах в Берлине&lt;br&gt;
-&lt;/b&gt;&lt;br&gt;
-Многие пассажиры и даже некоторые водители считают, что кондиционер неисправен, хотя на самом деле он работает в штатном режиме.&lt;br&gt;
-&lt;br&gt;
-📌 Ал&lt;b&gt;горитм работы системы:&lt;br&gt;
-&lt;br&gt;
-&lt;/b&gt;• До +1&lt;b&gt;8 °C н&lt;/b&gt;а улице — салон подогревается до 18&lt;b&gt; °C.&lt;br&gt;
-&lt;/b&gt;• От +1&lt;b&gt;8 до +24 °C —&lt;/b&gt; работает вентиляция.&lt;br&gt;
-• Выше +2&lt;b&gt;4 °C —&lt;/b&gt; включается охлаждение.&lt;br&gt;
-&lt;br&gt;
-❄️ При этом действует так называемое пр&lt;b&gt;авило «3 градусов»:&lt;br&gt;
-&lt;/b&gt;&lt;br&gt;
-👉 Температура в салоне поддерживается примерно на 3 °&lt;b&gt;C ниже температуры на улице.&lt;br&gt;
-&lt;br&gt;
-&lt;/b&gt;Например:&lt;br&gt;
-&lt;br&gt;
-• На улице +30&lt;b&gt; °C → &lt;/b&gt;в салоне около +27&lt;b&gt; °C.&lt;br&gt;
-•&lt;/b&gt; На улице +35&lt;b&gt; °C → &lt;/b&gt;в салоне около +32&lt;b&gt; °C.&lt;br&gt;
-&lt;br&gt;
-&lt;/b&gt;Это сделано специально, чтобы избежать слишком большого перепада температур для пассажиров и не перегружать климатическую систему автобуса.</description>
-      <guid isPermaLink="false">https://t.me/genau/2266</guid>
-      <pubDate>Sun, 21 Jun 2026 16:59:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
