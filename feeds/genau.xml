@@ -7,7 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 22:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 23:59:23 +0000</lastBuildDate>
+    <item>
+      <title>600 пассажиров поезда из Гамбурга в Прагу застряли недалеко (ну как — 150 км)...</title>
+      <link>https://t.me/genau/2298</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2298.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2299.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;600 пассажиров поезда из Гамбурга в Прагу застряли недалеко (ну как — 150 км) от Берлина&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Адская поездка даже по стандартам «дойчебана» — поезд «чешских железных дорог» сегодня вечером &lt;a href="https://www.maz-online.de/lokales/prignitz/karstaedt/600-passagiere-sitzen-bei-50-grad-im-zug-und-in-karstaedt-fest-sporthalle-als-notunterkunft-LDF77DAVE5HLVKIGXYB2UTILLQ.html"&gt;застрял&lt;/a&gt; на полпути между Гамбургом и Берлином. Сначала проблема была в упавшем дереве, затем в контактной сети исчезло напряжение — то есть вырубилось электричество, а вместе с ним и кондиционер. &lt;br&gt;
+&lt;br&gt;
+Представьте, 600 человек провели несколько часов в остановившемся поезде в самый жаркий день в истории Германии (температура внутри поднялась до 50 градусов) — без возможности открыть двери.&lt;br&gt;
+&lt;br&gt;
+Ближе к ночи появился старенький дизельный локомотив и отбуксировал поезд в городок Карштедт (Karstädt (Prignitz)). Беременных и потерявших сознание от жары вертолетом увезли в Берлин, остальных разместили в местном спортзале (на фото).&lt;br&gt;
+&lt;br&gt;
+Если кто-то случайно едет в Карштедт, свяжитесь с нашим читателем Мишей (@zerospiel) — у него в спортзале жена, и он сходит с ума.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2298</guid>
+      <pubDate>Sat, 27 Jun 2026 23:24:55 +0000</pubDate>
+    </item>
     <item>
       <title>(с) Valeria Le Weber</title>
       <link>https://t.me/genau/2297</link>
@@ -149,18 +168,6 @@
 💚</description>
       <guid isPermaLink="false">https://t.me/genau/2287</guid>
       <pubDate>Thu, 25 Jun 2026 16:02:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥵🥵 Берлинцы, не дадим другу другу засохнуть: расскажите лайфхаки, как вы спас...</title>
-      <link>https://t.me/genau/2286</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2286.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-🥵🥵 Берлинцы, не дадим другу другу засохнуть: расскажите лайфхаки, как вы спасаетесь в городе от жары. &lt;br&gt;
-&lt;br&gt;
-Это кому-то очень поможет, особенно недавно приехавшим, кто еще не привык, что кондиционеров у нас тут нет.&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2286</guid>
-      <pubDate>Thu, 25 Jun 2026 14:26:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
