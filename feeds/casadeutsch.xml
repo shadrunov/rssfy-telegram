@@ -7,7 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 00:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 04:51:22 +0000</lastBuildDate>
+    <item>
+      <title>Две новости: руководство «Дойчебана» сообщает, что причина тотального сбоя ус...</title>
+      <link>https://t.me/casadeutsch/251</link>
+      <description>&lt;b&gt;Две новости: руководство «Дойчебана» сообщает, что причина тотального сбоя установлена, и — первые поезда снова поехали&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Что это точно за причина, пока не сообщается. Застрявшим пассажирам обещают компенсировать расходы на такси и ночевку в отеле.&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;UPD. &lt;/b&gt;Руководители DB говорят, что после полуторачасового простоя все поезда поехали. Уф!</description>
+      <guid isPermaLink="false">https://t.me/casadeutsch/251</guid>
+      <pubDate>Tue, 23 Jun 2026 22:43:53 +0000</pubDate>
+    </item>
     <item>
       <title>Сбой или все-таки диверсия: первые комменатрии о тотально вставшем «Дойчебане»</title>
       <link>https://t.me/casadeutsch/250</link>
@@ -174,26 +185,6 @@ Deutsche Bahn: «Из-за общенационального сбоя в циф
       <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/casadeutsch/245.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/casadeutsch/245</guid>
       <pubDate>Tue, 23 Jun 2026 10:44:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ладно, поезда «Дойчебана» снова ходят (как могут). Но теперь хотелось бы поня...</title>
-      <link>https://t.me/casadeutsch/252</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/casadeutsch/252.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Ладно, поезда «Дойчебана» снова ходят (как могут). Но теперь хотелось бы понять, что именно произошло этой ночью, когда все они застряли без движения&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Признаем, казалось, что будет хуже: движение на немецких железных дорогах полностью остановилось около половины одиннадцатого ночи во вторник 23 июня, но уже через два часа возобновилось. К утру поезда ходили в обычном режиме. Как мы понимаем, в случае «Дойчебана» это значит: да, опаздывали, да отменялись, но к этому-то не привыкать, ездят — и слава всем богам. &lt;br&gt;
-&lt;br&gt;
-Еще ночью в руководстве DB заявили, что специалисты установили причину сбоя, но к утру так и не стало яснее, в чем именно она состоит. Так что известно по-прежнему только, что из строя вышла система мобильной связи GSM-R. Буква R значит Railway — по этим телефонам машинисты поездов связываются с диспетчерами на железнодорожных будках. Теоретически поезда&lt;a href="https://www.zeit.de/mobilitaet/2026-06/deutsche-bahn-ausfall-funkstoerung-faq?mj_campaign=nl_ref&amp;mj_content=zeitde_text_link_x&amp;mj_medium=nl&amp;mj_source=int_zonaudev_Was%20jetzt%3F"&gt; могут ездить и без нее&lt;/a&gt;, но в реальности это запрещено, поскольку иначе диспетчеры не смогут сообщить, например, что путь заблокирован, хотя горит зеленый, а машинисты — о том, что заметили человека на рельсах. &lt;br&gt;
-&lt;br&gt;
-Система уже масштабно сбоила в октябре 2022 года, но тогда был затронут только север Германии, если, конечно, слово «только» в этом случае уместно. Как &lt;a href="https://www.tagesschau.de/investigativ/wdr/bahn-kabel-schaeden-100.html"&gt;выяснилось позже&lt;/a&gt;, двое злоумышленников, причем действовавших независимо друг от друга и искавших цветмет, перерезали кабели связи.  А сейчас — по крайней мере, по&lt;a href="https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-steckt-hinter-dem-chaos-und-dem-zugfunk-gsm-r-a-164411a4-56a1-440d-a6c0-43a604d499a2"&gt; информации Spiegel&lt;/a&gt; от источников в DB — более вероятно, что случился сбой при обновлении программного обеспечения.&lt;br&gt;
-&lt;br&gt;
-В руководстве Deutsche Bahn указывают на то, как быстро смогли справиться с проблемой и включить резервный канал связи. Критики настаивают, что такого вообще не должно было произойти. В частности, министр путей сообщения Северного Рейна — Вестфалии Оливер Кришер из партии «зеленых» заявил, что железные дорогие «в очередной раз пробили дно». Эксперты еще ночью &lt;a href="https://t.me/casadeutsch/214"&gt;говорили&lt;/a&gt;, что в Германии техника, которая работает на общеевропейской GSM-R, серьезно устарела, да и сам стандарт связи не новый, &lt;a href="https://t3n.de/news/gsm-r-ausfall-funksystem-deutsche-bahn-erklaert-1749118/"&gt;готовится к замене&lt;/a&gt;. При этом после инцидента 2022 года руководство железных дорог и власти вроде как &lt;a href="https://www.spiegel.de/politik/deutschland/anschlaege-auf-die-deutsche-bahn-warum-es-der-konzern-den-taetern-so-einfach-macht-a-2340ac10-b90e-4b02-933b-bcc173234d63"&gt;согласовали&lt;/a&gt; целых 63 мер по защите инфраструктуры.&lt;br&gt;
-&lt;br&gt;
-Так или иначе, подводя итоги этой ночи, можно сказать: «Дойчебан» в очередной раз влип в историю, хотя огромной катастрофы с человеческими жертвами (представьте себе тысячи поездов без связи) удалось избежать. Ну, а если вам мало новостей с немецкой железной дороги, то вот вам еще одна: DB утром официально подтвердила, что открытие &lt;a href="https://t.me/casadeutsch/215"&gt;легендарного вокзала «Штутгарт-21»&lt;/a&gt; переносится на конец 2031 года.&lt;br&gt;
-&lt;br&gt;
- @casadeutsch</description>
-      <guid isPermaLink="false">https://t.me/casadeutsch/252</guid>
-      <pubDate>Wed, 24 Jun 2026 09:26:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
