@@ -7,7 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 22:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 00:04:09 +0000</lastBuildDate>
+    <item>
+      <title>Сбой или все-таки диверсия: первые комменатрии о тотально вставшем «Дойчебане»</title>
+      <link>https://t.me/casadeutsch/250</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/casadeutsch/250.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Сбой или все-таки диверсия: первые комменатрии о тотально вставшем «Дойчебане»&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Tagesspiegel &lt;a href="https://www.tagesspiegel.de/gesellschaft/probleme-mit-zugfunk-zugverkehr-deutschlandweit-ausgesetzt--bahn-stellt-betrieb-ein-15748868.html"&gt;дозвонился&lt;/a&gt; до Лукаса Иффлендера, который возглавляет Pro Bahn, это Объединение пассажиров железнодорожного транспорта:&lt;br&gt;
+&lt;br&gt;
+Либо что-то пошло не так при обновлении программного обеспечения, либо произошел сбой в работе двух центральных блоков с данными, какой номер используется для связи с каждым из локомотивов.&lt;br&gt;
+&lt;br&gt;
+По словам Иффлендера, который одновременно является профессором информатики Высшей школы техники и экономики в Дрездене, речь может идти либо об акте саботажа, либо от отказе техники, либо о некомпетености конкретных людей. В любом случае, говорит Иффлендер, эта техника очень сильно устарела.&lt;br&gt;
+&lt;br&gt;
+Rbb &lt;a href="https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-stroerungen-berlin-brandenburg.html"&gt;сообщает&lt;/a&gt;, что это, скорее, все-таки не диверсия и причины больше похожи на ошибку в обновлении софта.</description>
+      <guid isPermaLink="false">https://t.me/casadeutsch/250</guid>
+      <pubDate>Tue, 23 Jun 2026 22:20:16 +0000</pubDate>
+    </item>
     <item>
       <title>Всю эту жаркую неделю в Германии обсуждают историю из Галле: там владелец час...</title>
       <link>https://t.me/casadeutsch/255</link>
@@ -178,17 +194,6 @@ Deutsche Bahn: «Из-за общенационального сбоя в циф
  @casadeutsch</description>
       <guid isPermaLink="false">https://t.me/casadeutsch/252</guid>
       <pubDate>Wed, 24 Jun 2026 09:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Две новости: руководство «Дойчебана» сообщает, что причина тотального сбоя ус...</title>
-      <link>https://t.me/casadeutsch/251</link>
-      <description>&lt;b&gt;Две новости: руководство «Дойчебана» сообщает, что причина тотального сбоя установлена, и — первые поезда снова поехали&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Что это точно за причина, пока не сообщается. Застрявшим пассажирам обещают компенсировать расходы на такси и ночевку в отеле.&lt;br&gt;
-&lt;br&gt;
-&lt;b&gt;UPD. &lt;/b&gt;Руководители DB говорят, что после полуторачасового простоя все поезда поехали. Уф!</description>
-      <guid isPermaLink="false">https://t.me/casadeutsch/251</guid>
-      <pubDate>Tue, 23 Jun 2026 22:43:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
