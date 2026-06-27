@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 18:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 10:04:51 +0000</lastBuildDate>
+    <item>
+      <title>Нам пишут: «Приехала сестра, а выйти никуда не можем! Где тут спасаться от жа...</title>
+      <link>https://t.me/genau/2292</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2292.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+Нам &lt;a href="https://t.me/genau/2291?comment=56724"&gt;пишут&lt;/a&gt;: «Приехала сестра, а выйти никуда не можем! Где тут спасаться от жары в центре города? У кого какие любимые места?».&lt;br&gt;
+&lt;br&gt;
+Давайте поможем Марине и ее сестре. Поделимся местами, где сейчас в Берлине &lt;s&gt;можно выжить&lt;/s&gt; хорошо.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2292</guid>
+      <pubDate>Sat, 27 Jun 2026 08:57:10 +0000</pubDate>
+    </item>
     <item>
       <title>В Германии сегодня побит температурный рекорд. Впрочем, кажется, он не продер...</title>
       <link>https://t.me/genau/2291</link>
@@ -185,16 +197,6 @@ UPD (01:00) Давайте спать. Заканчиваем трансляци
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2281</guid>
       <pubDate>Wed, 24 Jun 2026 18:10:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>А разговоров-то было.</title>
-      <link>https://t.me/genau/2275</link>
-      <description>&lt;p&gt;[Document/Video]&lt;/p&gt;
-А разговоров-то было. &lt;br&gt;
-&lt;br&gt;
-Снято на Adenauerplatz.</description>
-      <guid isPermaLink="false">https://t.me/genau/2275</guid>
-      <pubDate>Tue, 23 Jun 2026 17:56:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
