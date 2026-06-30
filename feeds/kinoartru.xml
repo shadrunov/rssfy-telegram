@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 05:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:29:20 +0000</lastBuildDate>
+    <item>
+      <title>Совсем недавно в рамках спецпроекта «Этика.Док» мы публиковали большой текст ...</title>
+      <link>https://t.me/kinoartru/13390</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kinoartru/13390.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+Совсем недавно в рамках спецпроекта «Этика.Док» мы публиковали &lt;a href="https://kinoart.ru/texts/pochemu-vse-snimayut-avtofilmy"&gt;большой текст&lt;/a&gt; Алёши Хорошей, посвященный феномену автофильмов. &lt;br&gt;
+&lt;br&gt;
+Теперь его автор при участии Дины Караман и Дарьи Лихой открывает лабораторию личного кино &lt;b&gt;«Границы опыта»&lt;/b&gt;. В течение 7 недель участники будут читать, писать и снимать собственные короткие фильмы. &lt;br&gt;
+&lt;br&gt;
+Подробности об условиях можно почитать &lt;a href="https://t.me/nohomemovies/199"&gt;здесь.&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/kinoartru/13390</guid>
+      <pubDate>Tue, 30 Jun 2026 08:38:55 +0000</pubDate>
+    </item>
     <item>
       <title>Первый трейлер «Вервольфа» Роберта Эггерса.</title>
       <link>https://t.me/kinoartru/13389</link>
@@ -138,13 +150,6 @@
 &lt;a href="https://kinoart.ru/zerkalo2026/"&gt;https://kinoart.ru/zerkalo2026/&lt;/a&gt;</description>
       <guid isPermaLink="false">https://t.me/kinoartru/13385</guid>
       <pubDate>Sat, 27 Jun 2026 18:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #13376</title>
-      <link>https://t.me/kinoartru/13376</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kinoartru/13376.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/kinoartru/13376</guid>
-      <pubDate>Wed, 24 Jun 2026 16:22:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
