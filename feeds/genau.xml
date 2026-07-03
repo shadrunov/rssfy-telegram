@@ -7,7 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 12:07:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 15:08:52 +0000</lastBuildDate>
+    <item>
+      <title>В Германии — новый температурный рекорд! Не бойтесь, это не жара вернулась, е...</title>
+      <link>https://t.me/genau/2321</link>
+      <description>&lt;b&gt;В Германии — новый температурный рекорд! Не бойтесь, это не жара вернулась, его с прошлых выходных подкорректировали&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Deutscher Wetterdienst продолжает разбираться в лавине данных, которые приходили с разных метеостанций в те самые три самых жарких дня Германии на прошлой неделе. И вот, кто-то заметил, что в данных с метеостанции Мёкерн-Древиц в субботу не хватает данных восьми минут: с 16.37 до 16.45. &lt;br&gt;
+&lt;br&gt;
+Перепроверили: батюшки, там же &lt;a href="https://www.spiegel.de/wissenschaft/wetter-deutscher-wetterdienst-korrigiert-temperaturrekord-nach-oben-a-099aa73d-e73d-425b-be87-3dad2c053dd1"&gt;скрывался&lt;/a&gt; температурный рекорд. Теперь он составляет 41,8 градуса! &lt;br&gt;
+&lt;br&gt;
+Городишко Мёкерн-Древиц, вернее, район Древиц города Мёкерн, где всё это произошло, находится в Саксонии-Анхальт.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2321</guid>
+      <pubDate>Fri, 03 Jul 2026 14:50:51 +0000</pubDate>
+    </item>
     <item>
       <title>Кинотеатр GENAU показывает документальный фильм с НЕРЕАЛЬНОЙ, но реальной ист...</title>
       <link>https://t.me/genau/2320</link>
@@ -158,13 +173,6 @@
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2312</guid>
       <pubDate>Tue, 30 Jun 2026 20:36:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2303</title>
-      <link>https://t.me/genau/2303</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2303.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2303</guid>
-      <pubDate>Sun, 28 Jun 2026 18:14:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
