@@ -7,7 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 19:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 21:01:59 +0000</lastBuildDate>
+    <item>
+      <title>Одна из любимых групп берлинцев (да ладно, чего стесняться, любимая) зовет на...</title>
+      <link>https://t.me/genau/2322</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2322.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Одна из любимых групп берлинцев (да ладно, чего стесняться, любимая) зовет на бесплатный концерт &lt;/b&gt;&lt;br&gt;
+&lt;a href="https://drop.cobrand.com/d/Brutalismus3000/berlinshow"&gt;10 июля, секретное место&lt;/a&gt;&lt;br&gt;
+&lt;br&gt;
+Выдающийся нойкельнско-словакский техно-дуэт Brutalisimus 3000 что-то задумали (скорее всего, съемку видео с аудиторией, они так делают в других городах) и зовут на бесплатное шоу — надо &lt;a href="https://drop.cobrand.com/d/Brutalismus3000/berlinshow"&gt;зарегистрироваться&lt;/a&gt;.&lt;br&gt;
+&lt;br&gt;
+@butterflies_and_berliners</description>
+      <guid isPermaLink="false">https://t.me/genau/2322</guid>
+      <pubDate>Fri, 03 Jul 2026 19:42:22 +0000</pubDate>
+    </item>
     <item>
       <title>В Германии — новый температурный рекорд! Не бойтесь, это не жара вернулась, е...</title>
       <link>https://t.me/genau/2321</link>
@@ -159,20 +172,6 @@ Deutscher Wetterdienst продолжает разбираться в лавин
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2313</guid>
       <pubDate>Wed, 01 Jul 2026 08:31:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>60 человек застряли на станции Südkreuz — эскалатор не работал, лестница была...</title>
-      <link>https://t.me/genau/2312</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2312.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;60 человек застряли на станции Südkreuz — эскалатор не работал, лестница была перекрыта&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Половину сегодняшнего дня единственным способом покинуть станцию Südkreuz со стороны магазина Edeka был лифт — очередь достигала 60 человек. Эскалаторы на станции не работают давно (это еще та старая техническая проблема, та же, что на &lt;a href="https://t.me/genau/1861"&gt;главном вокзале&lt;/a&gt;), но сегодня перекрыли и лестницу — не смогли вовремя убрать оттуда кран. Тоже технический дефект, если вам интересно.&lt;br&gt;
-&lt;br&gt;
-В результате у единственного лифта &lt;a href="https://www.bz-berlin.de/berlin/tempelhof-schoeneberg/rolltreppe-kaputt-treppe-gesperrt-und-die-fahrgaeste-gefangen"&gt;выстроилась&lt;/a&gt; огромная очередь. Станцию можно покинуть и с другой стороны — со стороны магазина IKEA (там тоже не работают эскалаторы и лифты, но хотя бы есть лестница), — но обходить придется целый километр. «Мне на работе не поверят, что я застрял на зюдкройце», — задумчиво твердил опаздывающий мужчина.&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2312</guid>
-      <pubDate>Tue, 30 Jun 2026 20:36:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
