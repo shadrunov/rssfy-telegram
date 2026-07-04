@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 21:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 10:07:08 +0000</lastBuildDate>
+    <item>
+      <title>16 июля кинопрокатная компания A-One выпускает в российский прокат «Мужчину и...</title>
+      <link>https://t.me/kinoartru/13406</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kinoartru/13406.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+16 июля кинопрокатная компания A-One выпускает в российский прокат &lt;b&gt;«Мужчину и женщину»&lt;/b&gt; — классику французского кино, магнум опус Клода Лелуша и бенефис экранной пары Жан-Луи Трентиньяна и Анук Эме.&lt;br&gt;
+&lt;br&gt;
+В 1966 году картина получила «Золотую пальмовую ветвь» на Каннском кинофестивале. Впоследствии лента удостоилась двух премий «Оскар» (за лучший иностранный фильм и за лучший сценарий). &lt;br&gt;
+&lt;br&gt;
+Повторный прокат приурочен к 60-летию фильма. В Москве и в Санкт-Петербурге пройдет россыпь &lt;a href="https://a-onefilms.com/un-homme-et-une-femme/"&gt;специальных показов.&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/kinoartru/13406</guid>
+      <pubDate>Sat, 04 Jul 2026 08:18:08 +0000</pubDate>
+    </item>
     <item>
       <title>Можно ли хоть как-то снять внутренний дисбаланс — по крайней мере в экспериме...</title>
       <link>https://t.me/kinoartru/13397</link>
@@ -123,20 +135,6 @@
 &lt;a href="https://newholland.timepad.ru/event/4049958/"&gt;Регистрация.&lt;/a&gt;</description>
       <guid isPermaLink="false">https://t.me/kinoartru/13398</guid>
       <pubDate>Thu, 02 Jul 2026 15:27:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>8 июля в санкт-петербургском Центре Курёхина пройдет показ документальной кар...</title>
-      <link>https://t.me/kinoartru/13395</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kinoartru/13395.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-8 июля в санкт-петербургском Центре Курёхина пройдет показ документальной картины &lt;b&gt;«Наум. Предчувствия»&lt;/b&gt;. &lt;br&gt;
-&lt;br&gt;
-Фильм-портрет выдающегося киноведа со зрителями обсудят режиссер Андрей Натоцинский и кинокритик Алексей Гусев. &lt;br&gt;
-&lt;br&gt;
-&lt;a href="https://taplink.cc/naum.predictions"&gt;Билеты.&lt;/a&gt;&lt;br&gt;
-&lt;br&gt;
-На нашем сайте можно почитать &lt;a href="https://kinoart.ru/interviews/nashu-sredu-nuzhno-voroshit"&gt;интервью&lt;/a&gt; с Натоцинским, которое Сергей Кулешов брал к выходу фильма в прокат.</description>
-      <guid isPermaLink="false">https://t.me/kinoartru/13395</guid>
-      <pubDate>Wed, 01 Jul 2026 16:17:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
