@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 10:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 12:18:30 +0000</lastBuildDate>
+    <item>
+      <title>Первый трейлер «Минотавра» Андрея Звягинцева.</title>
+      <link>https://t.me/kinoartru/13423</link>
+      <description>&lt;p&gt;[Document/Video]&lt;/p&gt;
+Первый трейлер &lt;b&gt;«Минотавра»&lt;/b&gt; Андрея Звягинцева.</description>
+      <guid isPermaLink="false">https://t.me/kinoartru/13423</guid>
+      <pubDate>Wed, 08 Jul 2026 10:58:42 +0000</pubDate>
+    </item>
     <item>
       <title>Post #13422</title>
       <link>https://t.me/kinoartru/13422</link>
@@ -117,16 +125,6 @@ Cтоимость одного экземпляра составляет&lt;b&gt
       <description>На грядущем Венецианском кинофестиваля почетного «Золотого льва» &lt;a href="https://variety.com/2026/film/global/george-clooney-venice-film-festival-golden-lion-career-1236802227/"&gt;получит&lt;/a&gt; Джордж Клуни.</description>
       <guid isPermaLink="false">https://t.me/kinoartru/13411</guid>
       <pubDate>Mon, 06 Jul 2026 09:27:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Текущие оценки фильмов конкурсной программы фестиваля «Горький фест» по верси...</title>
-      <link>https://t.me/kinoartru/13410</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kinoartru/13410.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-Текущие оценки фильмов конкурсной программы фестиваля «Горький фест» по версии кинокритиков.&lt;br&gt;
-&lt;br&gt;
-Комментарии от участников таблицы доступны &lt;a href="https://kinoart.ru/gorkyfest2026/"&gt;здесь.&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://t.me/kinoartru/13410</guid>
-      <pubDate>Mon, 06 Jul 2026 09:09:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
