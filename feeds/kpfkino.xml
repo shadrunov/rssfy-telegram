@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 12:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 14:46:57 +0000</lastBuildDate>
+    <item>
+      <title>У меня сегодня день рождения</title>
+      <link>https://t.me/kpfkino/1839</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kpfkino/1839.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+У меня сегодня день рождения &lt;br&gt;
+&lt;br&gt;
+И я хочу кое-что сказать:&lt;br&gt;
+&lt;br&gt;
+здесь меня читают более пяти тысяч человек, а ведь четыре года назад было всего тридцать. Но знаете, что я для себя поняла? Что внутри ничего не поменялось. &lt;br&gt;
+&lt;br&gt;
+С тем же увлечением, с тем же рвением я пишу обо всем немецком и продолжаю вкладывать частичку себя и своей души в каждый текст. А ей кривить, скажу честно, совсем не хочется. Загадываю не поступаться собой. &lt;br&gt;
+&lt;br&gt;
+Спасибо всем и каждому, кто здесь — кто читает, обсуждает, дополняет посты и делится чем-то своим. &lt;br&gt;
+&lt;br&gt;
+Ну а если вы захотите меня поздравить с днем рождения, то сделать это очень просто и легко. &lt;br&gt;
+&lt;br&gt;
+Расскажите друзьям о &lt;b&gt;kopfkino&lt;/b&gt;, поделитесь вашим любимым постом или &lt;a href="https://karinakiyanova.ru/blog"&gt;подпишитесь на рассылку&lt;/a&gt; — с письмами о немецком. Для меня это будет самым настоящим подарком.&lt;br&gt;
+&lt;br&gt;
+Карина &lt;br&gt;
+💕</description>
+      <guid isPermaLink="false">https://t.me/kpfkino/1839</guid>
+      <pubDate>Tue, 14 Jul 2026 12:16:01 +0000</pubDate>
+    </item>
     <item>
       <title>Лето для меня начинается со стрижей.</title>
       <link>https://t.me/kpfkino/1828</link>
@@ -199,14 +222,6 @@
 ❤️— если нравится рубрика #dialekte #karte</description>
       <guid isPermaLink="false">https://t.me/kpfkino/1829</guid>
       <pubDate>Mon, 15 Jun 2026 12:18:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #1819</title>
-      <link>https://t.me/kpfkino/1819</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kpfkino/1819.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kpfkino/1820.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/kpfkino/1819</guid>
-      <pubDate>Mon, 01 Jun 2026 11:36:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
