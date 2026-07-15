@@ -7,7 +7,33 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 16:11:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:46:39 +0000</lastBuildDate>
+    <item>
+      <title>"Был пост про произношение ich?"</title>
+      <link>https://t.me/C1_Deutsch/3542</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/C1_Deutsch/3542.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;"Был пост про произношение ich?"&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Теперь есть! Как мы упустили эту картошечку – загадка. 🍟&lt;br&gt;
+&lt;br&gt;
+◀️ Классика Хохдойча и любого учебника – &lt;b&gt;ich, [ɪç], ихь&lt;br&gt;
+&lt;/b&gt;&lt;br&gt;
+◀️ Юг Германии, Австрия, часть Швейцарии – i&lt;b&gt;, [ɪ], и &lt;/b&gt;(кратко и звонко!)&lt;br&gt;
+&lt;br&gt;
+◀️ Рейнланд и Саксония – i&lt;b&gt;sch / esch, [ɪʃ] / [ɛʃ], иш / эш&lt;br&gt;
+&lt;/b&gt;&lt;br&gt;
+◀️ Берлин, отдельные регионы на севере Германии – i&lt;b&gt;k, [ɪk], ик&lt;br&gt;
+&lt;/b&gt;&lt;br&gt;
+◀️ Ещё на карте не отражена рассыпанная по регионам форма &lt;b&gt;[ɪx],&lt;/b&gt; с ахлаутом, как в слове B&lt;b&gt;auch &lt;/b&gt;или K&lt;b&gt;rach.&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Я&lt;i&gt; – последняя буква алфавита. I&lt;b&gt;ch &lt;/b&gt;– кодовое 938! А вы пишите, совпадает ли карта с вашими наблюдениями ✈&lt;/i&gt;&lt;i&gt;️&lt;br&gt;
+&lt;/i&gt;&lt;br&gt;
+#wosagtmanwie&lt;br&gt;
+&lt;br&gt;
+🔡 Уч&lt;a href="https://t.me/C1_Deutsch/3305"&gt;&lt;i&gt;иться с нами</description>
+      <guid isPermaLink="false">https://t.me/C1_Deutsch/3542</guid>
+      <pubDate>Wed, 15 Jul 2026 09:09:58 +0000</pubDate>
+    </item>
     <item>
       <title>Упс! С вами был на связи Лёва, мой полуторагодовалый сын. Пытался создавать к...</title>
       <link>https://t.me/C1_Deutsch/3541</link>
@@ -127,13 +153,6 @@
       <description>#6</description>
       <guid isPermaLink="false">https://t.me/C1_Deutsch/3533</guid>
       <pubDate>Mon, 13 Jul 2026 11:35:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>#5</title>
-      <link>https://t.me/C1_Deutsch/3532</link>
-      <description>#5</description>
-      <guid isPermaLink="false">https://t.me/C1_Deutsch/3532</guid>
-      <pubDate>Mon, 13 Jul 2026 11:34:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
