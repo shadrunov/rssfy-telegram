@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 13:43:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 15:37:43 +0000</lastBuildDate>
+    <item>
+      <title>BVG разрабатывает новое приложение взамен неудачного BVG-Fahrinfo. Оно называ...</title>
+      <link>https://t.me/genau/2373</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2373.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;BVG разрабатывает новое приложение взамен неудачного BVG-Fahrinfo. Оно называется «Макс» и работает пока что не очень (мы не шутим, если что)&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+В этом году мы должны были дружно перейти на Max — так &lt;a href="https://www.bvg.de/de/unternehmen/nachhaltige-mobilitaet/mobilitaet-der-zukunft/max"&gt;называется&lt;/a&gt; новое чудо-приложение, которое разрабатывают в Гамбурге для берлинского транспорта. Почему в Гамбурге? Потому что это было последнее место работы нынешнего главы берлинской транспортной компании BVG Хенрика Фалька. До 1 января 2024 он возглавлял гамбургскую транспортную компанию Hamburger Hochbahn и там отвечал как раз за «Макс». &lt;br&gt;
+&lt;br&gt;
+Приложение должно было уже выйти (в первом полугодии 2026 года), не вышло, сейчас BVG отказывается назвать дату, когда им можно будет пользоваться.&lt;br&gt;
+&lt;br&gt;
+С этим «Максом» ничего &lt;a href="https://www.tagesspiegel.de/berlin/streit-in-hamburg-stoppt-berlin-fur-die-neue-bvg-app-gibt-es-keinen-zeitplan-mehr-15810348.html"&gt;непонятно&lt;/a&gt; — в чем там проблема, решаема ли она, сколько миллионов надо еще туда вложить и когда они его построят. Понятно только, что оно Берлину нужно — BVG-Fahrinfo стабильно возглавляет рейтинги самых неудачных транспортных приложений (напишите, кстати, пользуетесь ли вы им и как ваш опыт). «Макс» же, судя по рекламным презентациям, должен был показывать не только, когда придет автобус, но и насколько он будет заполнен.&lt;br&gt;
+&lt;br&gt;
+Ждем «Макса», чтобы в него перейти.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2373</guid>
+      <pubDate>Wed, 15 Jul 2026 09:51:19 +0000</pubDate>
+    </item>
     <item>
       <title>Müggelsee — рассказываем вам то, что вы не знали о самом большом озере Берлина</title>
       <link>https://t.me/genau/2379</link>
@@ -142,18 +160,6 @@
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2374</guid>
       <pubDate>Wed, 15 Jul 2026 12:12:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2365</title>
-      <link>https://t.me/genau/2365</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2365.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2366.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2367.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2368.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2369.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2370.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2365</guid>
-      <pubDate>Tue, 14 Jul 2026 15:55:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
