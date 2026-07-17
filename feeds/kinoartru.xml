@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 17:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 14:41:10 +0000</lastBuildDate>
+    <item>
+      <title>Фильмом закрытия Венецианского фестиваля станет «Бог смеётся» Джованни Веронези.</title>
+      <link>https://t.me/kinoartru/13447</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kinoartru/13447.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+Фильмом закрытия Венецианского фестиваля станет &lt;b&gt;«Бог смеётся»&lt;/b&gt; Джованни Веронези.&lt;br&gt;
+&lt;br&gt;
+Сюжет основан на реальных событиях: в XVII веке монах из Тосканы проповедует легкость в отношениях с Богом, чем наводит на себя угрозу со стороны церкви. Главную роль в картине сыграл Пьерфранческо Фавино.&lt;br&gt;
+&lt;br&gt;
+Итальянская премьера картины намечена на 29 октября.</description>
+      <guid isPermaLink="false">https://t.me/kinoartru/13447</guid>
+      <pubDate>Fri, 17 Jul 2026 12:22:10 +0000</pubDate>
+    </item>
     <item>
       <title>В новом фильме Мэри Бронштейн («Я бы тебя пнула, если бы могла») главные роли...</title>
       <link>https://t.me/kinoartru/13446</link>
@@ -146,15 +158,6 @@
 &lt;a href="https://www.afisha.ru/spb/schedule_cinema_product/eygengrau-1004015/"&gt;Билеты на показ на «Ленфильме».&lt;/a&gt;</description>
       <guid isPermaLink="false">https://t.me/kinoartru/13438</guid>
       <pubDate>Mon, 13 Jul 2026 15:20:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Первый трейлер «Диггера» — нового фильма Алехандро Гонсалеса Иньярриту с Томо...</title>
-      <link>https://t.me/kinoartru/13437</link>
-      <description>Первый &lt;a href="https://www.youtube.com/watch?v=qORTe1wW3Wg"&gt;трейлер&lt;/a&gt; &lt;b&gt;«Диггера»&lt;/b&gt; — нового фильма Алехандро Гонсалеса Иньярриту с Томом Крузом в главной роли.&lt;br&gt;
-&lt;br&gt;
-В зарубежном прокате картина появится 2 октября.</description>
-      <guid isPermaLink="false">https://t.me/kinoartru/13437</guid>
-      <pubDate>Mon, 13 Jul 2026 13:03:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
