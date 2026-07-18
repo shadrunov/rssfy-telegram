@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 02:08:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 05:22:12 +0000</lastBuildDate>
+    <item>
+      <title>утро добрее не бывает✨</title>
+      <link>https://t.me/mlaylala_spricht/1114</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mlaylala_spricht/1114.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;&lt;i&gt;утро добрее не бывает✨&lt;/i&gt;&lt;/b&gt;</description>
+      <guid isPermaLink="false">https://t.me/mlaylala_spricht/1114</guid>
+      <pubDate>Sat, 18 Jul 2026 03:08:27 +0000</pubDate>
+    </item>
     <item>
       <title>💬 У тебя новое сообщение!</title>
       <link>https://t.me/mlaylala_spricht/1113</link>
@@ -404,14 +412,6 @@ Nebenprodukt – побочный продукт&lt;br&gt;
       <description>&lt;p&gt;[Document/Video]&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/mlaylala_spricht/1083</guid>
       <pubDate>Wed, 08 Jul 2026 15:40:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #1074</title>
-      <link>https://t.me/mlaylala_spricht/1074</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mlaylala_spricht/1074.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mlaylala_spricht/1075.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/mlaylala_spricht/1074</guid>
-      <pubDate>Tue, 07 Jul 2026 09:16:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
