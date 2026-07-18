@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 11:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 13:39:56 +0000</lastBuildDate>
+    <item>
+      <title>Сегодня и завтра в кинотеатре «Пионер» покажут фильм открытия «Нового движени...</title>
+      <link>https://t.me/kinoartru/13450</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kinoartru/13450.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+Сегодня и завтра в кинотеатре «Пионер» покажут фильм открытия «Нового движения»—2026 — &lt;b&gt;«Комнатное растение»&lt;/b&gt; Марии Саитовой. &lt;br&gt;
+&lt;br&gt;
+В центре сюжета этой среднеметражной картины — девушка, возвращающаяся в отчий дом, чтобы на дне рождения бабушки сыграть перед той роль своей погибшей сестры. План, разумеется, терпит крах, едва травма обнаруживает себя в интерьере, экстерьере и в паузах между репликами. Главную роль в фильме сыграла &lt;b&gt;Анна Савранская&lt;/b&gt;.&lt;br&gt;
+&lt;br&gt;
+&lt;a href="https://pioner-cinema.ru/film/vybor-pionera-komnatnoe-rastenie/"&gt;Билеты на сегодняшний сеанс (22:00) и на завтрашний показ (17:00).&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/kinoartru/13450</guid>
+      <pubDate>Sat, 18 Jul 2026 12:10:19 +0000</pubDate>
+    </item>
     <item>
       <title>С 1 по 9 августа в Музее «Гараж» пройдет цикл кинопоказов к проекту «Искусств...</title>
       <link>https://t.me/kinoartru/13449</link>
@@ -144,14 +156,6 @@
 Вероятно, премьеру стоит ожидать на Венецианском кинофестивале.</description>
       <guid isPermaLink="false">https://t.me/kinoartru/13442</guid>
       <pubDate>Wed, 15 Jul 2026 06:42:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Издательство Individuum выпустило «Эмигрантские дневники. 1938—1955» Бертольд...</title>
-      <link>https://t.me/kinoartru/13440</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kinoartru/13440.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-Издательство Individuum &lt;a href="https://individuum.ru/books/bertolt-brekht-emigranstskie-dnevniki-1938-1955/"&gt;выпустило&lt;/a&gt; «Эмигрантские дневники. 1938—1955» Бертольда Брехта. Этот «Рабочий журнал» — так сам автор называл коллекцию своих ежедневных заметок о политике, искусстве, театре — впервые выходит на русском языке. С разрешения издателя &lt;a href="https://kinoart.ru/cards/kazhdyy-raz-izumlyaet-primitivnost-konstruktsii-filma-bertold-breht-i-zapiski-o-kino"&gt;публикуем избранные записи,&lt;/a&gt; посвященные кино, с которым один из крупнейших драматургов прошлого века то сражался, то примирялся, то и вовсе сживался.</description>
-      <guid isPermaLink="false">https://t.me/kinoartru/13440</guid>
-      <pubDate>Tue, 14 Jul 2026 10:56:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
