@@ -7,7 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 19:12:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:03:13 +0000</lastBuildDate>
+    <item>
+      <title>Берлинский Сенат напишет укоряющие письма вдалельцам квартир, которые пытаютс...</title>
+      <link>https://t.me/genau/2417</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2417.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Берлинский Сенат напишет укоряющие письма вдалельцам квартир, которые пытаются сдать их по завышенным ценам. Штрафы не предусмотрены&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;&lt;br&gt;
+&lt;/b&gt;Берлинский Сенат начал использовать новые технологии (думаем, ИИ-бота) в борьбе с жадными квартировладельцами: в июне ведомство &lt;a href="https://www.berlin.de/sen/stadt/presse/pressemeldungen/pressemitteilung.1696337.php"&gt;проанализировало&lt;/a&gt; 4500 объявлений о сдаче квартир на разных ресурсах. В почти половине случаев аренда показалась боту слишком высокой, то есть нарушающей правило о Mietpreisbremse (цену на аренду квартиры нельзя ставить сильно выше, чем в среднем по району).&lt;br&gt;
+&lt;br&gt;
+Сенат собирается написать потенциальным нарушителям письма (по бумажной почте, естественно), в которых их вежливо попросят одуматься. Штрафы не предусмотрены — опубликовать объявление еще не является нарушением закона. &lt;br&gt;
+&lt;br&gt;
+Кроме того, взимать штрафы за слишком высокую аренду — вообще не дело Сената, этим занимаются районные власти. Однако Сенат — по доброте душевной — &lt;a href="https://www.tagesspiegel.de/berlin/berliner-wirtschaft/private-vermieter-nicht-immer-uber-mietrecht-informiert-halfte-der-inserate-verdachtsfalle--senat-will-tausende-vermieter-anschreiben-15865204.html"&gt;не собирается&lt;/a&gt; делиться с районными властями контактами обнаглевших квартировладельцев. Пусть те потом сами их ищут. Но в Сенате надеются, что письмо — то есть доброе слово — подействует лучше, чем револьвер. Которого у Сената и нет.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2417</guid>
+      <pubDate>Wed, 22 Jul 2026 20:44:14 +0000</pubDate>
+    </item>
     <item>
       <title>Post #2407</title>
       <link>https://t.me/genau/2407</link>
@@ -165,22 +181,6 @@
 &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2397.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/genau/2395</guid>
       <pubDate>Sat, 18 Jul 2026 13:15:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deutsche Bahn запретит пить алкоголь на всех немецких вокзалах</title>
-      <link>https://t.me/genau/2403</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2403.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Deutsche Bahn запретит пить алкоголь на всех немецких вокзалах&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Немецкие железные дороги собираются с 15 октября запретить распитие алкоголя (пиво тоже считается) вне баров и ресторанов на всех 5400 вокзалах страны. «Мы слишком часто убеждались, что там, где алкоголь, появляется и насилие», — &lt;a href="https://www.rbb24.de/panorama/beitrag/2026/07/deutsche-bahn-alkoholverbot-an-bahnhoefen.html"&gt;написала&lt;/a&gt; глава концерна Эвелин Палла в заявлении для прессы.&lt;br&gt;
-&lt;br&gt;
-Берлин стал подопытным кроликом для этого плана: уже в мае тут &lt;a href="https://t.me/genau/2028"&gt;запретили&lt;/a&gt; алкоголь на вокзалах Zoologischer Garten и Ostbahnhof, а с 1 сентября запрет введут на главном вокзале и на вокзале Gesundbrunnen. Штрафы не предусмотрены, людей с алкоголем просто будут гонять, раздавая, в худшем случае, хаусферботы.&lt;br&gt;
-&lt;br&gt;
-Интересно, что в поездах Deutsche Bahn запрета на алкоголь нет.&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2403</guid>
-      <pubDate>Tue, 21 Jul 2026 12:20:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
