@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 15:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 17:14:44 +0000</lastBuildDate>
+    <item>
+      <title>Post #2407</title>
+      <link>https://t.me/genau/2407</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2407.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/genau/2407</guid>
+      <pubDate>Tue, 21 Jul 2026 20:16:03 +0000</pubDate>
+    </item>
     <item>
       <title>Историческая парковка «Кант-гаражи» — место, где можно прекрасно поесть и пор...</title>
       <link>https://t.me/genau/2409</link>
@@ -174,16 +181,6 @@
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2403</guid>
       <pubDate>Tue, 21 Jul 2026 12:20:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2394</title>
-      <link>https://t.me/genau/2394</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2394.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2395.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2396.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2397.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2394</guid>
-      <pubDate>Sat, 18 Jul 2026 13:15:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
