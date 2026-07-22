@@ -7,7 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 17:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 11:06:31 +0000</lastBuildDate>
+    <item>
+      <title>Полу Шредеру — 80.</title>
+      <link>https://t.me/kinoartru/13460</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kinoartru/13460.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+Полу Шредеру — 80.&lt;br&gt;
+&lt;br&gt;
+Перечитываем &lt;a href="https://kinoart.ru/texts/paul-schrader-portrait"&gt;текст&lt;/a&gt; Дмитрия Карпюка о творчестве этого режиссера-экзистенциалиста.</description>
+      <guid isPermaLink="false">https://t.me/kinoartru/13460</guid>
+      <pubDate>Wed, 22 Jul 2026 08:29:43 +0000</pubDate>
+    </item>
     <item>
       <title>23 июля в московском кинотеатре «Ноябрь» пройдет показ фильма Ларса Фон Триер...</title>
       <link>https://t.me/kinoartru/13459</link>
@@ -128,18 +138,6 @@
 Также &lt;/a&gt;на сайте Дома культуры доступен вступитель&lt;a href="https://ges-2.org/what-s-with-the-face-introduction"&gt;ный текст к программе.</description>
       <guid isPermaLink="false">https://t.me/kinoartru/13451</guid>
       <pubDate>Sat, 18 Jul 2026 14:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сегодня и завтра в кинотеатре «Пионер» покажут фильм открытия «Нового движени...</title>
-      <link>https://t.me/kinoartru/13450</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/kinoartru/13450.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-Сегодня и завтра в кинотеатре «Пионер» покажут фильм открытия «Нового движения»—2026 — &lt;b&gt;«Комнатное растение»&lt;/b&gt; Марии Саитовой. &lt;br&gt;
-&lt;br&gt;
-В центре сюжета этой среднеметражной картины — девушка, возвращающаяся в отчий дом, чтобы на дне рождения бабушки сыграть перед той роль своей погибшей сестры. План, разумеется, терпит крах, едва травма обнаруживает себя в интерьере, экстерьере и в паузах между репликами. Главную роль в фильме сыграла &lt;b&gt;Анна Савранская&lt;/b&gt;.&lt;br&gt;
-&lt;br&gt;
-&lt;a href="https://pioner-cinema.ru/film/vybor-pionera-komnatnoe-rastenie/"&gt;Билеты на сегодняшний сеанс (22:00) и на завтрашний показ (17:00).&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://t.me/kinoartru/13450</guid>
-      <pubDate>Sat, 18 Jul 2026 12:10:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
