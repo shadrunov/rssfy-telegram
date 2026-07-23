@@ -7,7 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 07:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:19:19 +0000</lastBuildDate>
+    <item>
+      <title>Сегодня в Берлине начинается фестиваль аниме. А отгадайте, где мы пишем про т...</title>
+      <link>https://t.me/genau/2418</link>
+      <description>Сегодня в Берлине начинается фестиваль аниме. А отгадайте, где мы пишем про те фильмы, которые обязательно нужно на нем посмотреть — включая шедевр сюрреализма, пропитанный юнгианской символикой, и путешествие по пустеющей Японии в компании говорящих котов? &lt;br&gt;
+&lt;br&gt;
+Разумеется, в канале «&lt;a href="https://t.me/butterflies_and_berliners/309"&gt;бражники и берлинцы&lt;/a&gt;»! Большое упущение, если вы него еще не подписались.&lt;br&gt;
+&lt;br&gt;
+Исправьте это, плизик!</description>
+      <guid isPermaLink="false">https://t.me/genau/2418</guid>
+      <pubDate>Thu, 23 Jul 2026 10:03:36 +0000</pubDate>
+    </item>
     <item>
       <title>Берлинский Сенат напишет укоряющие письма вдалельцам квартир, которые пытаютс...</title>
       <link>https://t.me/genau/2417</link>
@@ -172,15 +183,6 @@
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2404</guid>
       <pubDate>Tue, 21 Jul 2026 16:40:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2395</title>
-      <link>https://t.me/genau/2395</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2395.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2396.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2397.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2395</guid>
-      <pubDate>Sat, 18 Jul 2026 13:15:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
