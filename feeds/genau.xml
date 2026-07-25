@@ -7,7 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 09:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 11:06:41 +0000</lastBuildDate>
+    <item>
+      <title>Што, опять? В Германии вновь ожидают рекордную жару</title>
+      <link>https://t.me/genau/2430</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2430.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Што, опять? В Германии вновь ожидают рекордную жару&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+В начале августа температура в Германии должна подняться до сорока градусов, предупреждают метеорологи. Будет ли повторение ситуации, которую мы пережили в конце июня, — пока не ясно. «Погодные модели предсказывают разные сценарии — от просто сильной жары до исторических температур», — &lt;a href="https://www.morgenpost.de/ratgeber-wissen/article412653402/neue-hitzewelle-anfang-august-es-kommt-etwas-heisses-auf-uns-zu.html"&gt;говорит&lt;/a&gt; Георг Хаас из &lt;a href="http://wetter.com/"&gt;wetter.com&lt;/a&gt;. &lt;br&gt;
+&lt;br&gt;
+Начаться жара должна на следующей неделе. &lt;br&gt;
+&lt;br&gt;
+Все готовы?&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2430</guid>
+      <pubDate>Sat, 25 Jul 2026 09:53:15 +0000</pubDate>
+    </item>
     <item>
       <title>В Берлине — прайд! Что нужно знать? 🌈</title>
       <link>https://t.me/genau/2422</link>
@@ -154,13 +170,6 @@
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2417</guid>
       <pubDate>Wed, 22 Jul 2026 20:44:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2407</title>
-      <link>https://t.me/genau/2407</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2407.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2407</guid>
-      <pubDate>Tue, 21 Jul 2026 20:16:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
