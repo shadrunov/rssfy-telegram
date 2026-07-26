@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 15:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 18:00:08 +0000</lastBuildDate>
+    <item>
+      <title>❗️Подозреваемый в совершении теракта на Берлинском прайде убит полицией в Шпа...</title>
+      <link>https://t.me/genau/2452</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2452.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;❗️Подозреваемый в совершении теракта на Берлинском прайде убит полицией в Шпандау&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;a href="https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html"&gt;Сообщает&lt;/a&gt; RBB. Он скрывался в районе дачных участков (Kleingartenanlage). Точнее — в дачном садоводстве &lt;a href="https://maps.app.goo.gl/j94Z6roNy5CNkF959"&gt;Burgwallschanze&lt;/a&gt;, который располагается между IKEA и берегом реки Хафель.&lt;br&gt;
+&lt;br&gt;
+Подозреваемый &lt;s&gt;открыл огонь по полиции&lt;/s&gt;, как выяснилось позже, бросился на полицейских с холодным оружием и был застрелен в 18:34. Дачный участок принадлежал его отцу.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2452</guid>
+      <pubDate>Sun, 26 Jul 2026 17:02:58 +0000</pubDate>
+    </item>
     <item>
       <title>Берлин ❤️‍🩹</title>
       <link>https://t.me/genau/2449</link>
@@ -137,15 +151,6 @@ UPD (23:40) 14 раненых, один погибший. &lt;br&gt;
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2436</guid>
       <pubDate>Sat, 25 Jul 2026 20:51:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2425</title>
-      <link>https://t.me/genau/2425</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2425.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2426.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2427.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2425</guid>
-      <pubDate>Fri, 24 Jul 2026 16:33:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
