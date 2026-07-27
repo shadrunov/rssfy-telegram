@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 15:40:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 17:39:59 +0000</lastBuildDate>
+    <item>
+      <title>Свежий опрос INSA (23 июля) по земельным выборам в Саксонии-Анхальт.</title>
+      <link>https://t.me/casadeutsch/289</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/casadeutsch/289.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+Свежий опрос INSA (23 июля) по земельным выборам в Саксонии-Анхальт.&lt;br&gt;
+&lt;br&gt;
+Nota bene (в чем вся интрига) – мандаты в ландтаге делятся не между всеми, кто получил голоса, а только между партиями, прошедшими 5-процентный барьер. Голоса за непрошедших просто «сгорают» — а их доля мандатов достаётся тем, кто прошёл, пропорционально их результатам.&lt;br&gt;
+&lt;br&gt;
+Сценарий 1: SPD проходит с 5%. В парламенте четыре партии: AfD (41%), CDU (24%), Линке (14%), SPD (5%). Вместе — 84% голосов. Мандаты делятся в этой пропорции: доля AfD = 41 из 84, то есть ~49% мест. До большинства чуть-чуть не хватает.&lt;br&gt;
+&lt;br&gt;
+Сценарий 2: SPD получает 4,9%. В парламенте остаются три партии с суммарными 79% голосов. Те же самые 41% AfD теперь делятся уже не на 84, а на 79 — и превращаются в ~52% мандатов. Однопартийное правительство AfD.&lt;br&gt;
+&lt;br&gt;
+То есть AfD не нужно набирать ни одного дополнительного голоса, в этой полароидной ситуации большинство ей может принести чужой провал. Судьбу земли решают несколько десятых процента у социал-демократов. Плюс FDP, зелёные и BSW, которые все висят на 4%: прорвись любая из них через барьер, знаменатель снова вырастет — и революция AfD снова отменяется.&lt;br&gt;
+&lt;br&gt;
+Погрешность опроса — ±3,1 пункта, так что это все очень жидкая кофейная гуща. Да и прямые и компенсационные мандаты могут ещё сдвинуть картину, но при 41% AfD пожалуй берёт большинство округов напрямую.&lt;br&gt;
+&lt;br&gt;
+Для контекста: в 2021-м CDU выиграла здесь с 37,1%, AfD была второй с 20,8%. За пять лет — рокировка с удвоением.&lt;br&gt;
+&lt;br&gt;
+До выборов шесть недель.</description>
+      <guid isPermaLink="false">https://t.me/casadeutsch/289</guid>
+      <pubDate>Thu, 23 Jul 2026 15:58:12 +0000</pubDate>
+    </item>
     <item>
       <title>Одно кадровое решение Мерца возмутило даже его партию. Рассказываем о судьбе ...</title>
       <link>https://t.me/casadeutsch/294</link>
@@ -198,20 +220,6 @@ Politico &lt;a href="https://www.politico.eu/newsletter/berlin-playbook/merz-kle
 *текст мой, но я попросила ИИ его причесать</description>
       <guid isPermaLink="false">https://t.me/casadeutsch/290</guid>
       <pubDate>Fri, 24 Jul 2026 12:43:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Друзья, casadeutsch уходит в отпуск с 13 по 27 июля.</title>
-      <link>https://t.me/casadeutsch/285</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/casadeutsch/285.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-Друзья, casadeutsch уходит в отпуск с 13 по 27 июля. &lt;br&gt;
-&lt;br&gt;
-Не теряйте нас, скоро мы вернемся с новыми темами, стримами, встречами. А еще нам предстоит пережить непростые осенние выборы, еще более непростые реформы и подобные события. Лучше держаться вместе.&lt;br&gt;
-&lt;br&gt;
-Обнимаем!&lt;br&gt;
-&lt;br&gt;
-Ваш casadeutsch</description>
-      <guid isPermaLink="false">https://t.me/casadeutsch/285</guid>
-      <pubDate>Mon, 13 Jul 2026 12:44:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
