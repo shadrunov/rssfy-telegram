@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 19:22:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:34:35 +0000</lastBuildDate>
+    <item>
+      <title>Нам всем не хватает хороших новостей. Огромный собакен Гаврюша нашел хозяев п...</title>
+      <link>https://t.me/genau/2458</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2458.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+Нам всем не хватает хороших новостей. Огромный собакен Гаврюша нашел хозяев по &lt;a href="https://t.me/genau/2261"&gt;объявлению&lt;/a&gt; в GENAU и переехал в Берлин.&lt;br&gt;
+&lt;br&gt;
+У него есть своя лежанка, но он предпочитает ортопедический матрас. И у него снова появился свой кот (кот пока в шоке)!&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2458</guid>
+      <pubDate>Tue, 28 Jul 2026 07:55:16 +0000</pubDate>
+    </item>
     <item>
       <title>Шесть полицейских автомобилей врезались друг в друга. Это произошло, потому ч...</title>
       <link>https://t.me/genau/2457</link>
@@ -129,16 +141,6 @@
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2449</guid>
       <pubDate>Sun, 26 Jul 2026 14:52:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Мерц под дождем: «Нас больше, мы сильнее, и мы вместе. Мы будем защищать нашу...</title>
-      <link>https://t.me/genau/2448</link>
-      <description>&lt;p&gt;[Document/Video]&lt;/p&gt;
-Мерц под дождем: «Нас больше, мы сильнее, и мы вместе. Мы будем защищать нашу свободу, нашу открытость и либеральные ценности».&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2448</guid>
-      <pubDate>Sun, 26 Jul 2026 14:43:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
