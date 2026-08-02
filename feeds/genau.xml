@@ -7,7 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 19:21:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 20:51:37 +0000</lastBuildDate>
+    <item>
+      <title>Тысячи читателей, которые хорошо зарабатывают.</title>
+      <link>https://t.me/genau/2486</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2486.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+Тысячи читателей, которые хорошо зарабатывают.&lt;br&gt;
+&lt;br&gt;
+Один дёнер любимой редакции в месяц.&lt;br&gt;
+&lt;br&gt;
+Который нам жизненно необходим → &lt;a href="doner.genauberlin.de"&gt;doner.genauberlin.de&lt;/a&gt;&lt;br&gt;
+&lt;br&gt;
+Очень вас любим! 🤵&lt;br&gt;
+&lt;br&gt;
+💚</description>
+      <guid isPermaLink="false">https://t.me/genau/2486</guid>
+      <pubDate>Sun, 02 Aug 2026 20:10:34 +0000</pubDate>
+    </item>
     <item>
       <title>А вообще нормально мы тут живем! 4359 евро — медиана по Берлину (ровно полови...</title>
       <link>https://t.me/genau/2482</link>
@@ -118,15 +134,6 @@
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2474</guid>
       <pubDate>Fri, 31 Jul 2026 09:48:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2464</title>
-      <link>https://t.me/genau/2464</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2464.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2465.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2466.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2464</guid>
-      <pubDate>Wed, 29 Jul 2026 17:09:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
