@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 13:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 16:21:16 +0000</lastBuildDate>
+    <item>
+      <title>Post #2483</title>
+      <link>https://t.me/genau/2483</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2483.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2484.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/genau/2483</guid>
+      <pubDate>Sun, 02 Aug 2026 18:10:20 +0000</pubDate>
+    </item>
     <item>
       <title>GENAU говорит с кандидатами: Штеффен Крах (SPD)</title>
       <link>https://t.me/genau/2489</link>
@@ -132,13 +140,6 @@ GENAU решил поговорить со всеми топ-кандадита�
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2477</guid>
       <pubDate>Sat, 01 Aug 2026 14:58:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2466</title>
-      <link>https://t.me/genau/2466</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2466.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2466</guid>
-      <pubDate>Wed, 29 Jul 2026 17:09:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
