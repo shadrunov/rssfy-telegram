@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 10:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 12:59:16 +0000</lastBuildDate>
+    <item>
+      <title>Городские власти (ага, та самая Уте Бонде) убирают велодорожку в Шарлоттенбур...</title>
+      <link>https://t.me/genau/2496</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2496.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Городские власти (ага, та самая Уте Бонде) убирают велодорожку в Шарлоттенбурге. Защитники климата собираются подать в суд&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Выделенная велодорожка на Kantstraße появилась в 2020 году как временное решение эпохи пандемии, когда люди стали меньше пользоваться общественным транспортом. Из временного решения получилось постоянное — число велосипедистов в этой части города выросло, по некоторым расчетам, в три раза. &lt;br&gt;
+&lt;br&gt;
+Однако пожарная охрана все эти годы требовала перекроить улицу — пожарные расчеты сейчас не могут подъехать вплотную к домам из-за велодорожки, что потенциально угрожает жизням людей (это не единственная точка зрения, некоторые считают, что пожарные &lt;a href="https://www.tagesspiegel.de/berlin/streit-um-pop-up-radweg-in-der-berliner-kantstrasse-ruckbau-soll-im-september-beginnen--umwelthilfe-kundigt-klage-an-15864888.html"&gt;могут найти способ&lt;/a&gt; подъехать).&lt;br&gt;
+&lt;br&gt;
+В итоге городские власти (решением сенаторки по транспорту Уте Бонде, СDU) убирают скандальную дорожку, объясняя это пожарной безопасностью — работы начнутся 1 сентября. Восточная часть Kantstraße между Joachimsthaler Straße и  Wilmerdorfer Straße будет выглядеть так: прямо к домам будет выходить полоса для парковки, затем совместная велосипедно-автобусная полоса и, наконец, одна-единственная полоса для автомобилей (как на схеме слева). Активисты предлагают сохранить велодорожку и вообще отказаться от парковок (схема справа).&lt;br&gt;
+&lt;br&gt;
+Власти Шарлоттенбурга и климатические активисты считают решение Сената предвыборным подарком автовладельцам: велосипедисты же вынуждены будут лавировать между автобусами и желающими припарковаться автомобилями, вместо того чтобы ехать по своей отдельной дорожке. Организация Deutsche Umwelthilfe собирается подать в суд на городские власти.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2496</guid>
+      <pubDate>Tue, 04 Aug 2026 12:53:29 +0000</pubDate>
+    </item>
     <item>
       <title>Канадская фирма скупает у берлинских антикваров запасы старых неоцифрованных ...</title>
       <link>https://t.me/genau/2495</link>
@@ -131,18 +149,6 @@ GENAU решил поговорить со всеми топ-кандадита�
 💚</description>
       <guid isPermaLink="false">https://t.me/genau/2486</guid>
       <pubDate>Sun, 02 Aug 2026 20:10:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>А вообще нормально мы тут живем! 4359 евро — медиана по Берлину (ровно полови...</title>
-      <link>https://t.me/genau/2482</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2482.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2483.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2484.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-А вообще нормально мы тут живем! 4359 евро — медиана по Берлину (ровно половина зарабатывает больше, ровно половина — меньше). &lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2482</guid>
-      <pubDate>Sun, 02 Aug 2026 18:10:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

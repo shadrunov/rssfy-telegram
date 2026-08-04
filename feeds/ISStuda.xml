@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 12:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 12:59:16 +0000</lastBuildDate>
+    <item>
+      <title>Finding housing in Germany can be challenging, especially when you are new to...</title>
+      <link>https://t.me/ISStuda/370</link>
+      <description>&lt;p&gt;[Document/Video]&lt;/p&gt;
+Finding housing in Germany can be challenging, especially when you are new to the system. To support international students, TU Darmstadt is offering online webinars that explain how to search for accommodation, where to look, and what to watch out for during the process.&lt;br&gt;
+During the session, you will learn about common housing options, useful platforms, and practical tips for navigating the housing market in Darmstadt.&lt;br&gt;
+&lt;br&gt;
+Next Webinar: 24 August, 9:30 am (CEST)&lt;br&gt;
+&lt;br&gt;
+More information:&lt;br&gt;
+&lt;a href="http://www.tu-darmstadt.de/housing-assist"&gt;http://www.tu-darmstadt.de/housing-assist&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/ISStuda/370</guid>
+      <pubDate>Tue, 04 Aug 2026 12:11:25 +0000</pubDate>
+    </item>
     <item>
       <title>Exam season is here, and we know it's a lot.</title>
       <link>https://t.me/ISStuda/367</link>
@@ -111,16 +125,6 @@ If you're heading to a lake or river to cool off, please take extra care. Hot we
       <description>Reminder!</description>
       <guid isPermaLink="false">https://t.me/ISStuda/353</guid>
       <pubDate>Fri, 19 Jun 2026 10:38:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Please note that Monday, 25 May 2026 is Whit Monday (Pfingstmontag), a public...</title>
-      <link>https://t.me/ISStuda/344</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/ISStuda/344.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-Please note that Monday, 25 May 2026 is Whit Monday (Pfingstmontag), a public holiday in Germany.&lt;br&gt;
-TU Darmstadt will be closed, and most supermarkets, grocery stores, and shops will not be open. We recommend stocking up on everything you need this weekend.&lt;br&gt;
-Wishing everyone a relaxing long weekend!</description>
-      <guid isPermaLink="false">https://t.me/ISStuda/344</guid>
-      <pubDate>Sat, 23 May 2026 08:26:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
