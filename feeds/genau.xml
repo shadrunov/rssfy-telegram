@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 11:04:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:01:43 +0000</lastBuildDate>
+    <item>
+      <title>GENAU говорит с кандидатами: Кристоф Майер (FDP)</title>
+      <link>https://t.me/genau/2527</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2527.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;GENAU говорит с кандидатами: Кристоф Майер (FDP)&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+В сентябре в Берлине пройдут выборы — мэр Вегнер сошел с дистанции, а значит у города будет новый градоначальник или градоначальница. Но кто эти люди на плакатах, что они предлагают?&lt;br&gt;
+&lt;br&gt;
+GENAU решил поговорить с топ-кандадитами на берлинских выборах, которые пройдут 20 сентября. Дима Вачедин встретился с политиками, которые готовы были к такому разговору. Спасибо нашим друзьям из &lt;a href="https://lab-wir.de/anind/interview_genau/ru"&gt;WIR.DE&lt;/a&gt; — мы вместе работали над этим проектом.&lt;br&gt;
+&lt;br&gt;
+Сегодня мы выпускаем вторую часть — разговор с Кристофом Майером (FDP). Cпасибо талантливой Дарье Глобиной (&lt;a href="https://www.instagram.com/dashoo.globe/"&gt;инста&lt;/a&gt;) за фотографии!&lt;br&gt;
+&lt;br&gt;
+Читаем → &lt;a href="https://open.substack.com/pub/genauberlin/p/b46?r=40187h&amp;utm_campaign=post-expanded-share&amp;utm_medium=web"&gt;genauberlin.de&lt;/a&gt;&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2527</guid>
+      <pubDate>Wed, 12 Aug 2026 11:52:05 +0000</pubDate>
+    </item>
     <item>
       <title>Помните, в Берлине напечатали 4 миллиона бюллетеней к выборам? Чуть не пришло...</title>
       <link>https://t.me/genau/2526</link>
@@ -168,13 +186,6 @@ Die Linke, напомним, сейчас в опросах на первом м
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2516</guid>
       <pubDate>Mon, 10 Aug 2026 10:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2507</title>
-      <link>https://t.me/genau/2507</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2507.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2507</guid>
-      <pubDate>Thu, 06 Aug 2026 17:40:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
