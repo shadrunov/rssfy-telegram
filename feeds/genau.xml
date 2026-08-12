@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 21:41:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 22:36:34 +0000</lastBuildDate>
+    <item>
+      <title>Десятки тысяч берлинцев используют приложение FreiFahren, чтобы избежать встр...</title>
+      <link>https://t.me/genau/2524</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2524.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Десятки тысяч берлинцев используют приложение FreiFahren, чтобы избежать встречи с контролерами. Незаконного в этом, вроде, ничего нет, но разработчиков обвиняют в «несолидарном поведении»&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+FreiFahren — это зарегистрированный в Шарлоттенбурге и официально &lt;a href="https://freifahren.org/faq/"&gt;работающий&lt;/a&gt; ферайн, который помогает берлинским «зайцам» избежать встречи с контролерами. Это не какая-то партизанская организация, имена его учредителей известны, разработчик Йохан Трилофф охотно рассказывает, что придумал приложение, когда узнал, что тысячи жителей Германии ежегодно &lt;a href="https://schon.berlin/feature/2024/01/15/zaytsy-protiv-gosudarstva"&gt;садятся&lt;/a&gt; в тюрьму из-за штрафов за безбилетный проезд.&lt;br&gt;
+&lt;br&gt;
+«В основном, это люди, которые и так живут в крайне тяжелых условиях, в жизни которых многое пошло не так. Вообще-то государство должно им помогать. Вместо этого оно создает в общественном транспорте систему контроля и фактически начинает на них охоту», — &lt;a href="https://www.tagesspiegel.de/berlin/app-warnt-vor-ticketkontrollen-in-berlin-bvg-kritisiert-freifahren-anwendung-als-unsolidarisch-15925035.html"&gt;объясняет&lt;/a&gt; Трилофф.&lt;br&gt;
+&lt;br&gt;
+С помощью дружественных программистов Трилофф построил систему, с помощью которой берлинские пассажиры могут быстро сообщить о контролерах на какой-нибудь из линий. Это можно сделать с помощью приложения или телеграм-канала: бот быстро перенесет данные на карту, которая покажет безопасные и опасные маршруты по Берлину.&lt;br&gt;
+&lt;br&gt;
+В транспортной компани BVG работу ферайна не оценили. «Тот, кто целенаправленно помогает пользоваться транспортом без билета, с точки зрения BVG, поддерживает несолидарное поведение, которое идет в ущерб добросовестным пассажирам и наносит компании значительный экономический ущерб», — заявили в компании. &lt;br&gt;
+&lt;br&gt;
+О каких-то судебных исках, впрочем, не слышно: сложно понять, какой закон может нарушать этот ферайн.&lt;br&gt;
+&lt;br&gt;
+Интересно, что сделанное на коленке приложение FreiFahren кажется быстрым и удобным — в отличие от официальных транспортных берлинских приложений (мы уже молчим о &lt;a href="https://t.me/genau/2373"&gt;приложении «Макс»&lt;/a&gt;). Какой тут вывод можно сделать? Не знаем, не знаем.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2524</guid>
+      <pubDate>Tue, 11 Aug 2026 11:40:49 +0000</pubDate>
+    </item>
     <item>
       <title>Мы договорились об интервью с кандидаткой в мэры Берлина от AfD. Что бы вы у ...</title>
       <link>https://t.me/genau/2523</link>
@@ -124,18 +146,6 @@ GENAU решил поговорить с топ-кандадитами на бе
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2526</guid>
       <pubDate>Tue, 11 Aug 2026 18:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ребята, под нашими постами регулярно появляется вот такая реклама. Пожалуйста...</title>
-      <link>https://t.me/genau/2525</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2525.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-Ребята, под нашими постами регулярно появляется вот такая реклама. Пожалуйста, не кликайте туда! А лучше — пожалуйтесь в телеграм, это можно сделать, нажав на три точки. &lt;br&gt;
-&lt;br&gt;
-Это — мошенники, и к ним законопослушные мы не имеем никакого отношения. 🤵&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2525</guid>
-      <pubDate>Tue, 11 Aug 2026 12:18:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
