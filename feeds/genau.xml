@@ -7,7 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 17:16:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:37:31 +0000</lastBuildDate>
+    <item>
+      <title>Берлин стал последним регионом Германии, который перевел беженцев на безнал</title>
+      <link>https://t.me/genau/2549</link>
+      <description>&lt;b&gt;Берлин стал последним регионом Германии, который перевел беженцев на безнал&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Соискатели убежища в Берлине больше &lt;a href="https://www.tagesspiegel.de/berlin/als-letztes-bundesland-berlin-fuhrt-bezahlkarte-fur-asylsuchende-ein-15940103.html"&gt;не будут получать&lt;/a&gt; свои пособия в виде налички на руки, они будут переводиться на специальную SocialCard. Это дебетовая карта Visa без привязки к какому-то счету и с виртуальным IBAN, которую можно использовать по всей Германии и совершать с ее помощью онлайн-покупки. &lt;br&gt;
+&lt;br&gt;
+Ограничено лишь количество кэша, которое можно будет снять в банкоматах с такой карточкой — 50 евро в месяц в первые шесть месяцев. Затем это ограничение снимается.&lt;br&gt;
+&lt;br&gt;
+Переход на карты разгрузит социальных работников, которые раньше тратили много времени на выдачу налички. Кроме того, карта не позволит переводить деньги за рубеж — семьям или даже перевозчикам-контрабандистам, которые «в долг» помогали добраться до Германии. Во всяком случае так объясняли ввод карточек в других регионах.&lt;br&gt;
+&lt;br&gt;
+Берлин стал последним регионом в Германии, где это произошло — правящие в городе CDU и SPD долго не могли договориться о том, сколько кэша разрешено будет снимать. Нынешнее решение — это результат компромисса между партиями.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2549</guid>
+      <pubDate>Mon, 17 Aug 2026 09:29:00 +0000</pubDate>
+    </item>
     <item>
       <title>Смотрим в Берлине «Каникулы» — блестящий фильм о том, что нужно оставаться лю...</title>
       <link>https://t.me/genau/2547</link>
@@ -151,13 +168,6 @@
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2540</guid>
       <pubDate>Fri, 14 Aug 2026 12:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2530</title>
-      <link>https://t.me/genau/2530</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2530.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2530</guid>
-      <pubDate>Wed, 12 Aug 2026 15:48:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
