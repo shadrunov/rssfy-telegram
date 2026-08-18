@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 14:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:22:01 +0000</lastBuildDate>
+    <item>
+      <title>❗️Кибератака на Берлин — два сенатских департамента отключены от сети</title>
+      <link>https://t.me/genau/2553</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2553.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;❗️Кибератака на Берлин — два сенатских департамента отключены от сети&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Берлинские власти &lt;a href="https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt-a-c2d02d82-c29e-413d-b7a8-91d354863f81"&gt;сообщили&lt;/a&gt; о хакерской атаке на два сенатских ведомства — транспортное (где сенаторка Уте Бонде) и строительное. Масштаб пока не очень ясен, ведомства еще в пятницу отключили от внутренней сети берлинской администрации (Landesnetz), чтобы ограничить ущерб. Сообщается, что утекли какие-то данные, но являются ли они секретными, пока не понятно.&lt;br&gt;
+&lt;br&gt;
+Департаменты продолжают работу, но, по сути, отключены от интернета и доступны только по телефону (и, возможно, по факсу). Начато расследование, в которое вовлечены полиция, городская прокуратура и Федеральное ведомство по информационной безопасности. Созван антикризисный штаб. Пока не понятно, произошла ли в пятницу сама атака, или в этот день была обнаружена утечка.&lt;br&gt;
+&lt;br&gt;
+По &lt;a href="https://www.rbb24.de/content/rbb/r24/politik/beitrag/2026/08/berlin-landesnetz-sicherheitsvorfall-it-senatsverwaltung.html"&gt;данным&lt;/a&gt; RBB, хакеры воспользовались уязвимостью в IT-системе строительного департамента. Ответственность за уязвимость может лежать на айти-компании ITDZ, которая принадлежит городу.&lt;br&gt;
+&lt;br&gt;
+А что такое внутренняя сеть берлинской администрации (Landesnetz или BeLa)? Это защищенная высокоскоростная сеть передачи данных, которая соединяет около 600 государственных и общественных объектов через подземную оптоволоконную сеть. Помимо сенатских ведомств, к ней подключены полиция и пожарная служба Берлина, а также больницы. Сеть обслуживает компания ITDZ Berlin.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2553</guid>
+      <pubDate>Tue, 18 Aug 2026 10:43:38 +0000</pubDate>
+    </item>
     <item>
       <title>В Берлине вновь открыли Aquarium — исторический террариум со знаменитым кроко...</title>
       <link>https://t.me/genau/2550</link>
@@ -162,17 +180,6 @@
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2542</guid>
       <pubDate>Sat, 15 Aug 2026 10:19:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>А скажите, из какого города вы нас читаете — прямо сейчас? Вы — где?</title>
-      <link>https://t.me/genau/2541</link>
-      <description>А скажите, из какого города вы нас читаете — прямо сейчас? Вы — где? &lt;br&gt;
-&lt;br&gt;
-Очень интересно! 😈Одного слова достаточно.&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2541</guid>
-      <pubDate>Fri, 14 Aug 2026 19:01:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
