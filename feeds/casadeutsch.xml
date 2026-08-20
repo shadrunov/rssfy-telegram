@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:25:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:40:58 +0000</lastBuildDate>
+    <item>
+      <title>DW ломает брандмауэр</title>
+      <link>https://t.me/casadeutsch/347</link>
+      <description>DW ломает брандмауэр &lt;br&gt;
+&lt;br&gt;
+&lt;a href="https://www.youtube.com/live/9Wbl0-TTxXk?si=yy9nb_iLSpIpW747"&gt;https://www.youtube.com/live/9Wbl0-TTxXk?si=yy9nb_iLSpIpW747&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/casadeutsch/347</guid>
+      <pubDate>Thu, 20 Aug 2026 12:03:34 +0000</pubDate>
+    </item>
     <item>
       <title>Муниципальный политик в Саксонии-Анхальт из СDU бросил партбилет в лицо колле...</title>
       <link>https://t.me/casadeutsch/346</link>
@@ -182,13 +191,6 @@ GENAU решил поговорить с топ-кандадитами на бе
 @casadeutsch</description>
       <guid isPermaLink="false">https://t.me/casadeutsch/339</guid>
       <pubDate>Wed, 19 Aug 2026 10:33:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #330</title>
-      <link>https://t.me/casadeutsch/330</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/casadeutsch/330.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/casadeutsch/330</guid>
-      <pubDate>Thu, 13 Aug 2026 16:04:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
