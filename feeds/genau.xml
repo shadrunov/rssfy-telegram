@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 08:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:30:35 +0000</lastBuildDate>
+    <item>
+      <title>Чего-то подобного мы и ожидали. Вчера под Берлином прошел торнадо</title>
+      <link>https://t.me/genau/2564</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2564.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Чего-то подобного мы и ожидали. Вчера под Берлином прошел торнадо&lt;br&gt;
+&lt;/b&gt;&lt;br&gt;
+Deutscher Wetterdienst &lt;a href="https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html"&gt;признал&lt;/a&gt;, что странное погодное явление, которое произошло вчера вечером в городке Фюрстенвальде в паре десятков километров от Берлина, «без сомнения, являлось торнадо». &lt;br&gt;
+&lt;br&gt;
+Торнадо (то есть локальный вертикальный вихрь-воронка) вырвал с корнем немало деревьев, сорвал крышу с детского сада и оставил разрушения практически в каждом доме на нескольких улицах. Ранены три человка — парочка в движущемся автомобиле, на который упало дерево, и женщина, порезавшаяся об осколки лопнувшего стекла в своем доме. Детали сорванной крыши были найдены за 600 метров от здания.&lt;br&gt;
+&lt;br&gt;
+Метеорологи сейчас изучают явление, ущерб подсчитывается, сила ветра достигала 150 километров в час.&lt;br&gt;
+&lt;br&gt;
+😨&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2564</guid>
+      <pubDate>Thu, 20 Aug 2026 08:57:37 +0000</pubDate>
+    </item>
     <item>
       <title>Post #2551</title>
       <link>https://t.me/genau/2551</link>
@@ -149,18 +167,6 @@ GENAU решил поговорить с топ-кандадитами на бе
       <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2539.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/genau/2539</guid>
       <pubDate>Fri, 14 Aug 2026 11:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Мы спросили. И — оказалось.</title>
-      <link>https://t.me/genau/2544</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2544.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2545.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2546.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-Мы &lt;a href="https://t.me/genau/2541"&gt;спросили&lt;/a&gt;. И — оказалось.&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2544</guid>
-      <pubDate>Sun, 16 Aug 2026 15:26:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
