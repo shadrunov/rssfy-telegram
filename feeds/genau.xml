@@ -7,7 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:26:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:21:33 +0000</lastBuildDate>
+    <item>
+      <title>Прошла неделя с кибератаки на Берлин. Два сенатских ведомства по-прежнему отк...</title>
+      <link>https://t.me/genau/2568</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2568.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Прошла неделя с кибератаки на Берлин. Два сенатских ведомства по-прежнему отключены от сети&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Как мы помним, неделю назад на берлинскую администрацию была осуществлена &lt;a href="https://t.me/genau/2553"&gt;кибератака&lt;/a&gt; — затронуло два департамента, по транспорту и строительству, их отключили от внутренней сети берлинской администрации Landesnetz. И, видимо, тем самым — от интернета, во всяком случае, с тех пор они доступны только по телефону, факсу и смс.&lt;br&gt;
+&lt;br&gt;
+Что это было? Яснее не стало, разве что власти говорят, что утекшие сведения (геоданные) не являются какими-то секретными и могли быть получены просто поиском в гугле. &lt;br&gt;
+&lt;br&gt;
+Все напряглись, когда из-за кибератаки на один день перестало функционировать оформление заявлений для голосования по почте (напомним, 20 сентября в Берлине выборы). Однако это быстро починили, и вообще не очень понятно, связана ли была эта проблема с хакерской атакой. Сенаторка по внутренним делам &lt;a href="https://www.spiegel.de/netzwelt/berlin-hackerangriff-bedroht-tausende-wohngeldzahlungen-a-a3b6114c-de59-441d-aa0c-1353194c50ef"&gt;говорит&lt;/a&gt;, что система выборов не пострадала, все нормально.&lt;br&gt;
+&lt;br&gt;
+Другое дело — 50 тысяч берлинских домохозяйств, которые получают субсидии на оплату жилья (Wohngeld). Велик шанс, что эти деньги вовремя, то есть в конце месяца, выплатить не удастся. Также затягиваются все процессы, связанные с выдачей разрешений в строительстве. В отпуск сотрудников затронутых департаментов не отправляли, но что они могут сделать без интернета — не очень понятно.&lt;br&gt;
+&lt;br&gt;
+Следим.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2568</guid>
+      <pubDate>Fri, 21 Aug 2026 10:45:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post #2558</title>
+      <link>https://t.me/genau/2558</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2558.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2559.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2560.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2561.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/genau/2558</guid>
+      <pubDate>Wed, 19 Aug 2026 13:02:18 +0000</pubDate>
+    </item>
     <item>
       <title>Подставная фирма перевезла в Берлин семь тонн марихуаны из Канады. Организато...</title>
       <link>https://t.me/genau/2567</link>
@@ -134,45 +164,6 @@ GENAU решил поговорить с топ-кандадитами на бе
 &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2546.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/genau/2545</guid>
       <pubDate>Sun, 16 Aug 2026 15:26:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Кибератака на Берлин — два сенатских департамента отключены от сети</title>
-      <link>https://t.me/genau/2553</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2553.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;❗️Кибератака на Берлин — два сенатских департамента отключены от сети&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Берлинские власти &lt;a href="https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt-a-c2d02d82-c29e-413d-b7a8-91d354863f81"&gt;сообщили&lt;/a&gt; о хакерской атаке на два сенатских ведомства — транспортное (где сенаторка Уте Бонде) и строительное. Масштаб пока не очень ясен, ведомства еще в пятницу отключили от внутренней сети берлинской администрации (Landesnetz), чтобы ограничить ущерб. Сообщается, что утекли какие-то данные, но являются ли они секретными, пока не понятно.&lt;br&gt;
-&lt;br&gt;
-Департаменты продолжают работу, но, по сути, отключены от интернета и доступны только по телефону (и, возможно, по факсу). Начато расследование, в которое вовлечены полиция, городская прокуратура и Федеральное ведомство по информационной безопасности. Созван антикризисный штаб. Пока не понятно, произошла ли в пятницу сама атака, или в этот день была обнаружена утечка.&lt;br&gt;
-&lt;br&gt;
-По &lt;a href="https://www.rbb24.de/content/rbb/r24/politik/beitrag/2026/08/berlin-landesnetz-sicherheitsvorfall-it-senatsverwaltung.html"&gt;данным&lt;/a&gt; RBB, хакеры воспользовались уязвимостью в IT-системе строительного департамента. Ответственность за уязвимость может лежать на айти-компании ITDZ, которая принадлежит городу.&lt;br&gt;
-&lt;br&gt;
-А что такое внутренняя сеть берлинской администрации (Landesnetz или BeLa)? Это защищенная высокоскоростная сеть передачи данных, которая соединяет около 600 государственных и общественных объектов через подземную оптоволоконную сеть. Помимо сенатских ведомств, к ней подключены полиция и пожарная служба Берлина, а также больницы. Сеть обслуживает компания ITDZ Berlin.&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2553</guid>
-      <pubDate>Tue, 18 Aug 2026 10:43:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Берлине вновь открыли Aquarium — исторический террариум со знаменитым кроко...</title>
-      <link>https://t.me/genau/2550</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2550.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2551.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;В Берлине вновь открыли Aquarium — исторический террариум со знаменитым крокодил-халле. Завтра туда можно будет бесплатно зайти&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-18 августа — то есть завтра — после трехлетнего ремонта вновь откроется &lt;a href="https://www.aquarium-berlin.de/de"&gt;«Аквариум»&lt;/a&gt; в зоопарке Zoologischer Garten в западной части города. Это памятник архитектуры, на момент открытия в 1913 году тут размещался первый в мире вольер внутри здания, где посетители могли зайти непосредственно к животным (к крокодилам в знаменитую крокодил-халле). Во время Второй мировой войны прямо к крокодилам упала авиабомба, после чего здание долго восстанавливали.&lt;br&gt;
-&lt;br&gt;
-Здание, как вы поняли, необычное: когда зайдете, оцените красивые витражи на лестнице — это оригинал, они сохранились во время войны в подвалах. Еще здание облеплено модными в 1913 году динозаврами — для атмосферы и антуража.&lt;br&gt;
-&lt;br&gt;
-Имейте в виду, что «Аквариум» не является суперсовременным аквапарком, хотя на трех этажах тут и размещается невероятное количество существ (20 тысяч, причем каких-нибудь муравьев отдельно не считали), вольеры и аквариумы сделаны тут по моде двадцатого века. «Аквариум» мы ценим за атмосферность и шик начала прошлого века.&lt;br&gt;
-&lt;br&gt;
-На первом этаже обратите внимание на 25 видов красивейших медуз. Аквариумы повсюду: в различные бассейны тут разлито 1 миллион литров воды — раньше соленую воду привозили из Северного моря, теперь ее разливают на месте из 76 видов солей (в зависимости от предпочтений рыбок и моллюсков). &lt;br&gt;
-&lt;br&gt;
-На самом деле «Аквариум» уже открыт и сегодня, завтра именно официальное открытие — первые 113 посетителей (в честь 113-летия «Аквариума») обещают пустить бесплатно, надо только прийти ровно к 9 утра. Учтите, что здание «Аквариума» &lt;a href="https://maps.app.goo.gl/7Z56ud6bQpVSzVJz5"&gt;располагается&lt;/a&gt; по адресу Budapester Str. 32, чуть вдали от главного входа в зоопарк.&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2550</guid>
-      <pubDate>Mon, 17 Aug 2026 13:56:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
