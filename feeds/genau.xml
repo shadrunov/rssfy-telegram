@@ -7,7 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 17:17:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 18:23:27 +0000</lastBuildDate>
+    <item>
+      <title>Привет!</title>
+      <link>https://t.me/genau/2575</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2575.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2576.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+Привет! &lt;br&gt;
+&lt;br&gt;
+*дружеская рекомендация*&lt;br&gt;
+&lt;br&gt;
+Меня зовут Александра, я профессиональная оперная певица (консерватория города Дюссельдорф) и актриса. Вы можете знать меня по техно-операм (даже в Бергхайне ее показывали) или мы встречались на спектаклях Volkstheater Rostock и независимых берлинских театров.&lt;br&gt;
+&lt;br&gt;
+А еще я очень давно преподаю пение и сейчас готова взять несколько учеников! Уровень может быть самый разный, да и цели разные, может, вам интересен классический вокал, а, может, вы хотите поработать над подачей голоса и уверенностью в себе — в любом случае вэлкам.&lt;br&gt;
+&lt;br&gt;
+Преподаю у себя дома в Пренцлауэр-Берге. Есть фортепиано, так что можем заодно подыграть.&lt;br&gt;
+&lt;br&gt;
+Пишите: @salome_von_berlin</description>
+      <guid isPermaLink="false">https://t.me/genau/2575</guid>
+      <pubDate>Sun, 23 Aug 2026 17:37:26 +0000</pubDate>
+    </item>
     <item>
       <title>Если вы живете в Берлине, и у вас одновременно душ и ванная, то вы прямо ходи...</title>
       <link>https://t.me/genau/2574</link>
@@ -159,13 +178,6 @@ Deutscher Wetterdienst &lt;a href="https://www.rbb24.de/panorama/beitrag/2026/08
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2564</guid>
       <pubDate>Thu, 20 Aug 2026 08:57:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2551</title>
-      <link>https://t.me/genau/2551</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2551.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2551</guid>
-      <pubDate>Mon, 17 Aug 2026 13:56:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
