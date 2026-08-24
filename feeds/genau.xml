@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 12:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:29:25 +0000</lastBuildDate>
+    <item>
+      <title>Post #2578</title>
+      <link>https://t.me/genau/2578</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2578.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2579.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/genau/2578</guid>
+      <pubDate>Sun, 23 Aug 2026 18:45:30 +0000</pubDate>
+    </item>
     <item>
       <title>Авторка бестселлеров из США на полтора часа застряла в туалете бутика Hermès ...</title>
       <link>https://t.me/genau/2586</link>
@@ -147,22 +155,6 @@
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2574</guid>
       <pubDate>Sat, 22 Aug 2026 15:50:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ферайн Fluss Bad Berlin собирался все лето устраивать купания в Шпрее. Из-за ...</title>
-      <link>https://t.me/genau/2572</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2572.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Ферайн Fluss Bad Berlin собирался все лето устраивать купания в Шпрее. Из-за качества воды это получилось сделать только один раз&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Не очень успешным выдалось лето у ферайна Fluss Bad Berlin, который &lt;a href="https://www.flussbad-berlin.de/"&gt;выступает&lt;/a&gt; за отмену запрета на купание в реке Шпрее, который действует в Берлине уже сто лет. Ферайн собрался, начиная с 20 мая, каждый месяц устраивать открытое купание в центре Берлина у Музейного острова. Однако из-за качества воды вместо четырех купаний удалось провести только одно — 20 июня. Вчерашнее купание, на которое пришла кандидатка в мэры Берлина Элиф Эральп от партии Die Linke (она поддерживает этот проект), тоже отменили по этой причине.&lt;br&gt;
-&lt;br&gt;
-Дело в том, что из-за особенности берлинской канализации после дождей стоки попадают в воду Шпрее. Именно это и происходило почти каждый раз этим летом: накануне шли дожди, и вода не была достаточно чистой.&lt;br&gt;
-&lt;br&gt;
-Следующее купание, впрочем, запланировано на 20 сентября — вдруг.&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2572</guid>
-      <pubDate>Fri, 21 Aug 2026 18:21:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
