@@ -7,7 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:11:20 +0000</lastBuildDate>
+    <item>
+      <title>Ночью загорелась электрическая подстанция в центре Берлина. Все переволновали...</title>
+      <link>https://t.me/genau/2655</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2655.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Ночью загорелась электрическая подстанция в центре Берлина. Все переволновались, но, видимо, это был не поджог, а короткое замыкание&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Около трех часов утра пожарные получили сигнал о том, что загорелась подстанция в районе Митте (недалеко от Potsdamer Platz). 54 сотрудника тушили пожар больше пяти часов. Пожар возник в месте, где лежал строительный мусор.&lt;br&gt;
+&lt;br&gt;
+Конечно, нервы у всех на пределе, и в первую очередь пришло в голову, что это может быть поджог. Однако никаких следов поджигающих веществ не было обнаружено, да и высоковольные кабели не были повреждены. Основная теория на данный момент — к пожару привело короткое замыкание.&lt;br&gt;
+&lt;br&gt;
+Тем не менее, в центре Берлина утром не работали около 90 светофоров — они чувствительно реагируют на скачки напряжения. Сейчас всё поправили.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2655</guid>
+      <pubDate>Mon, 07 Sep 2026 13:53:04 +0000</pubDate>
+    </item>
     <item>
       <title>Всё началось с клика на фишинговую ссылку. Район Лихтенберг отказал американц...</title>
       <link>https://t.me/genau/2654</link>
@@ -170,22 +186,6 @@
       <description>&lt;p&gt;[Document/Video]&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/genau/2645</guid>
       <pubDate>Fri, 04 Sep 2026 16:10:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>У «Русского дома» сегодня в шесть часов два митинга. Там встретятся те, кто т...</title>
-      <link>https://t.me/genau/2644</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2644.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;У «Русского дома» сегодня в шесть часов два митинга. Там встретятся те, кто требует его закрытия — и те, кто против. Мы послали туда корреспондента Садчикова, чтобы он всё разузнал&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Андрей Садчиков — в дождь и бурю — постарается собрать для вас мнения сторон и вообще покажет, что происходит у «Русского дома» — с помощью видеокружочков. &lt;br&gt;
-&lt;br&gt;
-Мы прислушались к вашей критике и сделаем так — первый кружочек появится постом, а остальные в комментариях к первому кружочку. Нормально? То есть не будем засорять вам ленту (а то накинулись на нас в прошлый раз).&lt;br&gt;
-&lt;br&gt;
-Ждем, пока он выйдет на связь!&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2644</guid>
-      <pubDate>Fri, 04 Sep 2026 15:52:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
