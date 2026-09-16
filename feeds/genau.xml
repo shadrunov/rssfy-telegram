@@ -7,7 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:56:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:56:35 +0000</lastBuildDate>
+    <item>
+      <title>Разрушенную скамейку на месте атаки на прайд восстановили. И даже вырванный к...</title>
+      <link>https://t.me/genau/2706</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2706.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Разрушенную скамейку на месте атаки на прайд восстановили. И даже вырванный клен удалось спасти &lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Неделю назад неизвестные &lt;a href="https://t.me/genau/2650"&gt;раздолбали&lt;/a&gt; скамейку, которую власти района Mitte поставили на месте июльского теракта на прайде — и вырвали с корнем посаженный клен (дерево посадили взамен того, в которое врезался автомобиль преступника). &lt;br&gt;
+&lt;br&gt;
+Прошла неделя, и вот — скамейку починили, и клен снова на своем законном месте. &lt;br&gt;
+&lt;br&gt;
+Районные власти &lt;a href="https://www.rbb24.de/panorama/beitrag/2026/09/berlin-regenbogenbank-csd-wiederaufbau-nach-zerstoerung.html"&gt;обещают&lt;/a&gt;, что за ними будут лучше приглядывать, но без подробностей.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2706</guid>
+      <pubDate>Mon, 14 Sep 2026 17:05:43 +0000</pubDate>
+    </item>
     <item>
       <title>Элиф Эральп собирается устроить в городской ратуше новогодний прием для бездо...</title>
       <link>https://t.me/genau/2714</link>
@@ -147,13 +163,6 @@
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2707</guid>
       <pubDate>Tue, 15 Sep 2026 10:29:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2695</title>
-      <link>https://t.me/genau/2695</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2695.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2695</guid>
-      <pubDate>Sun, 13 Sep 2026 13:37:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
