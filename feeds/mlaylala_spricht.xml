@@ -7,7 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:39:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:48:01 +0000</lastBuildDate>
+    <item>
+      <title>поехали🐆</title>
+      <link>https://t.me/mlaylala_spricht/1191</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mlaylala_spricht/1191.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mlaylala_spricht/1192.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;i&gt;поехали🐆 &lt;br&gt;
+&lt;/i&gt;&lt;br&gt;
+1&lt;i&gt;1:00 – первый экзамен в аспирантуру&lt;br&gt;
+&lt;/i&gt;&lt;br&gt;
+г&lt;i&gt;лавное – вспомнить тему своей кандидатской</description>
+      <guid isPermaLink="false">https://t.me/mlaylala_spricht/1191</guid>
+      <pubDate>Tue, 15 Sep 2026 07:11:16 +0000</pubDate>
+    </item>
     <item>
       <title>произошла небольшая обновка, не теряйте 🤍</title>
       <link>https://t.me/mlaylala_spricht/1197</link>
@@ -214,14 +227,6 @@ Zeit wird knapp - времени остаётся мало.&lt;br&gt;
 #lexik@mlaylala_spricht</description>
       <guid isPermaLink="false">https://t.me/mlaylala_spricht/1194</guid>
       <pubDate>Tue, 15 Sep 2026 16:32:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>первый экзамен сдан! 100/100, полёт нормальный</title>
-      <link>https://t.me/mlaylala_spricht/1193</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/mlaylala_spricht/1193.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;i&gt;первый экзамен сдан! 100/100, полёт нормальный&lt;/i&gt;</description>
-      <guid isPermaLink="false">https://t.me/mlaylala_spricht/1193</guid>
-      <pubDate>Tue, 15 Sep 2026 09:10:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
