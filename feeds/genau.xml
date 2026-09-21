@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 22:57:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:53:31 +0000</lastBuildDate>
+    <item>
+      <title>В Берлине выборы. Двери одного из избирательных участков в Шёнеберге заклеили...</title>
+      <link>https://t.me/genau/2743</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2743.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;В Берлине выборы. Двери одного из избирательных участков в Шёнеберге заклеили секундным клеем&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Ночью произошла (не очень эффективная, но в чем-то даже зрелищная) попытка сорвать голосование на одном из избирательных участков на Monumentenstraße, который находится в спортивном зале. Неизвестные &lt;a href="https://www.tagesspiegel.de/berlin/liveblog/newsblog-zur-berlin-wahl-2026wahllokale-seit-8-uhr-geoffnet-16053722.html"&gt;заклеили&lt;/a&gt; замочные скважины секундным клеем и написали на двери слово Wahl (выбор) и зачеркнули его. На другой стене написано слово Widerstand (сопротивление). &lt;br&gt;
+&lt;br&gt;
+Вызванному слесарю понадобилось 20 минут, чтобы открыть дверь — все нормально, можно голосовать. Выбираем мэра.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2743</guid>
+      <pubDate>Sun, 20 Sep 2026 10:13:30 +0000</pubDate>
+    </item>
     <item>
       <title>Результаты к полуночи</title>
       <link>https://t.me/genau/2751</link>
@@ -151,20 +165,6 @@ BSW: 5,00%&lt;br&gt;
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2745</guid>
       <pubDate>Sun, 20 Sep 2026 16:50:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Экзитполы по берлинским выборам:</title>
-      <link>https://t.me/genau/2744</link>
-      <description>&lt;b&gt;Экзитполы по берлинским выборам:&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Die Linke: 24,5%&lt;br&gt;
-CDU: 20,00%&lt;br&gt;
-AfD: 16,00%&lt;br&gt;
-Grüne: 15,00%&lt;br&gt;
-SPD: 12,00%&lt;br&gt;
-BSW: 5,00%</description>
-      <guid isPermaLink="false">https://t.me/genau/2744</guid>
-      <pubDate>Sun, 20 Sep 2026 16:20:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
