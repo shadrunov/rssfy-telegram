@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 19:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 22:43:02 +0000</lastBuildDate>
+    <item>
+      <title>50 берлинских станций оснастят к концу года индикаторами заполненности вагоно...</title>
+      <link>https://t.me/genau/2761</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2761.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;50 берлинских станций оснастят к концу года индикаторами заполненности вагонов. Всем очень нравится, как эта штука работает&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+В руководстве берлинских с-банов очень довольны тем, как система индикаторов заполненности вагонов прошла через тестовую фазу — и &lt;a href="https://www.tagesspiegel.de/berlin/zusatzliche-anzeigen-auf-vielen-bahnhofen-s-bahn-informiert-uber-gedrange-16080333.html"&gt;собираются&lt;/a&gt; оснастить ей все берлинские станции. Сейчас система работает на 14 станциях, а к концу года ей попробуют покрыть всё «кольцо» и Stadtbahn — всего 50 станций.&lt;br&gt;
+&lt;br&gt;
+Система работает очень просто — поезд проезжает через своеобразный сканер (Lichtschranke), который пропускает через его окна световые сигналы. Чем больше в поезде людей, тем меньше световых сигналов проходит. Информация стекается на центральный сервер, откуда распределяется по станциям. Пассажиры на следующей станции видят на табло, в каком вагоне давка, и как разумные гомо сапиенсы растекаются по всей длине перрона. При этом сканеры почти не потребляют электричества, достаточно маленькой солнечной батареи.&lt;br&gt;
+&lt;br&gt;
+В будущем систему хотят научить делать прогнозы на пять станций вперед, но сложно объяснить, зачем это нам понадобится. Работает — и ладно.&lt;br&gt;
+&lt;br&gt;
+&lt;i&gt;Фото: Deutsche Bahn AG / André Groth&lt;/i&gt;&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2761</guid>
+      <pubDate>Tue, 22 Sep 2026 19:45:13 +0000</pubDate>
+    </item>
     <item>
       <title>Результаты к полуночи</title>
       <link>https://t.me/genau/2751</link>
@@ -166,18 +184,6 @@ Cам Кочак уже &lt;a href="https://www.tagesspiegel.de/berlin/nach-chat
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2752</guid>
       <pubDate>Mon, 21 Sep 2026 11:10:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>У берлинских Die Linke, конечно, праздник!</title>
-      <link>https://t.me/genau/2745</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2745.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-У берлинских Die Linke, конечно, праздник! &lt;br&gt;
-&lt;br&gt;
-Эта партия никогда не занимала первое место на берлинских выборах и никогда не набирала больше голосов, чем SPD.&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2745</guid>
-      <pubDate>Sun, 20 Sep 2026 16:50:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
