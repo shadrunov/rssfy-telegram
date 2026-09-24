@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:09:22 +0000</lastBuildDate>
+    <item>
+      <title>Post #567</title>
+      <link>https://t.me/doch_ffm/567</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/doch_ffm/567.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/doch_ffm/567</guid>
+      <pubDate>Mon, 21 Sep 2026 15:37:03 +0000</pubDate>
+    </item>
     <item>
       <title>Во Франкфурте в бывшей церкви сделали «кладбище с крышей»</title>
       <link>https://t.me/doch_ffm/572</link>
@@ -218,20 +225,6 @@ Rhein Main Verkehr и Deutsche Bahn начинают большую модерн
 Источник: hessenschau, Norbert Miguletz</description>
       <guid isPermaLink="false">https://t.me/doch_ffm/564</guid>
       <pubDate>Fri, 18 Sep 2026 13:39:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Самолет Condor почти сел во Франкфурте, но часы пробили 23:00 и аэропорт прев...</title>
-      <link>https://t.me/doch_ffm/563</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/doch_ffm/563.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Самолет Condor почти сел во Франкфурте, но часы пробили 23:00 и аэропорт превратился в тыкву&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Рейс Condor из Сардинии во Франкфурт в ночь на 12 сентября уже заходил на посадку, когда пилоту пришлось прервать заход и лететь в Кёльн. По данным AeroTelegraph, самолет уже &lt;b&gt;снизился до 300 метров&lt;/b&gt; и находился примерно в семи километрах от полосы. Самолет уже почти сел, но во Frankfurt Airport с 23:00 до 05:00 запрещены взлеты и посадки. &lt;br&gt;
-&lt;br&gt;
-Все из-за задержки еще в Сардинии. Самолет не смог вовремя вылететь из Ольбии из-за технического сообщения об ошибке. После устранения проблемы рейс отправился во Франкфурт, но к моменту подлета оказался буквально на границе ночного запрета. В итоге самолет отправили в Кёльн, а пассажиров оттуда повезли во Франкфурт автобусами.&lt;br&gt;
-&lt;br&gt;
-Вот так немецкий закон о тишине в очередной раз победил здравый смысл.</description>
-      <guid isPermaLink="false">https://t.me/doch_ffm/563</guid>
-      <pubDate>Fri, 18 Sep 2026 08:57:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
