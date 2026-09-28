@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 10:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 18:25:02 +0000</lastBuildDate>
+    <item>
+      <title>В криминальных точках города разместят видеокамеры с поддержкой ИИ</title>
+      <link>https://t.me/genau/2787</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2787.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;В криминальных точках города разместят видеокамеры с поддержкой ИИ&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Берлинская полиция запускает пилотный проект — в местах с повышенным уровнем преступности (буквально kriminalitätsbelastete Orte) будут установлены видеокамеры с поддержкой ИИ. Что означает, что камера будет заточена определять странное поведение людей и вообще объектов — например, когда кто-то падает с самоката или начинается драка.&lt;br&gt;
+&lt;br&gt;
+«Работу системы можно сравнить с действиями внимательного прохожего, который замечает опасность, набирает номер 110 и сообщает о происшествии. В обоих случаях сотрудник полиции оценивает поступившую информацию и принимает решение о необходимых мерах», — &lt;a href="https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718008.php"&gt;успокаивает&lt;/a&gt; нас полиция.&lt;br&gt;
+&lt;br&gt;
+Насколько можно судить, система не будет искать определенных людей из базы данных — ее вообще не интересуют личности, только происшествие. Кроме того, полиция обещает не вглядываться в «чувствительные зоны» — окна и подъезды на пленке будут размыты.&lt;br&gt;
+&lt;br&gt;
+Сначала систему установят на Kottbusser Tor — эта площадь в Кройцберге послужит тестовой площадкой. Затем камерами оснастят Warschauer Brücke, Александерплац и, наконец, Гёрлицер-парк.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2787</guid>
+      <pubDate>Mon, 28 Sep 2026 10:57:58 +0000</pubDate>
+    </item>
     <item>
       <title>Просто хотим вам напомнить, что сегодня и — особенно — завтра в Берлине будет...</title>
       <link>https://t.me/genau/2786</link>
@@ -168,13 +186,6 @@
 И &lt;/a&gt;срочно подп&lt;a href="https://kinogenau.substack.com/"&gt;исывайтесь на афишу кин&lt;/a&gt;отеатра GENAU.</description>
       <guid isPermaLink="false">https://t.me/genau/2772</guid>
       <pubDate>Thu, 24 Sep 2026 17:45:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #2771</title>
-      <link>https://t.me/genau/2771</link>
-      <description>&lt;p&gt;[Document/Video]&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/genau/2771</guid>
-      <pubDate>Thu, 24 Sep 2026 17:44:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
