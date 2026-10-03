@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 11:32:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:41:05 +0000</lastBuildDate>
+    <item>
+      <title>Post #2800</title>
+      <link>https://t.me/genau/2800</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2800.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/genau/2800</guid>
+      <pubDate>Wed, 30 Sep 2026 15:46:49 +0000</pubDate>
+    </item>
     <item>
       <title>Вчера сломался лифт на берлинской радиобашне. Люди застряли на обзорной площа...</title>
       <link>https://t.me/genau/2808</link>
@@ -163,19 +170,6 @@
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2798</guid>
       <pubDate>Wed, 30 Sep 2026 13:19:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>С сегодняшнего вечера и до утра понедельника (30.09 — 5.10) поезда не ходят п...</title>
-      <link>https://t.me/genau/2797</link>
-      <description>&lt;b&gt;С сегодняшнего вечера и до утра понедельника (30.09 — 5.10) поезда не ходят по «кольцу» между Beusselstraße и Halensee&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Причина — &lt;a href="https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sbahn-sperrung-beusselstrasse-halensee-bauarbeiten-westendbruecke.html"&gt;строительство&lt;/a&gt; нового моста Westendbrücke и восстановление железной дороги Siemensbahn, которая cоединит главный вокзал и Сименсштадт (через Jungfernheide).&lt;br&gt;
-&lt;br&gt;
-В западной части «кольца» между поездами увеличат интервалы, так что всем нам придется потерпеть.&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2797</guid>
-      <pubDate>Wed, 30 Sep 2026 12:46:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
