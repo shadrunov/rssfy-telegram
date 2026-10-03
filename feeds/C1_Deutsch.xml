@@ -7,7 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 15:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 18:59:10 +0000</lastBuildDate>
+    <item>
+      <title>Пишите расшифровку в комментариях ⤵</title>
+      <link>https://t.me/C1_Deutsch/3732</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/C1_Deutsch/3732.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+Пишите расшифровку в комментариях ⤵&lt;br&gt;
+&lt;br&gt;
+🔡 У&lt;a href="https://t.me/C1_Deutsch/3305"&gt;&lt;i&gt;читься с нами</description>
+      <guid isPermaLink="false">https://t.me/C1_Deutsch/3732</guid>
+      <pubDate>Wed, 30 Sep 2026 07:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ответы на утреннюю загадку</title>
       <link>https://t.me/C1_Deutsch/3740</link>
@@ -129,16 +139,6 @@ v&lt;b&gt;erblüffen &lt;/b&gt;– ошеломлять, ошарашивать 
 🔡 У&lt;a href="https://t.me/C1_Deutsch/3305"&gt;&lt;i&gt;читься с нами</description>
       <guid isPermaLink="false">https://t.me/C1_Deutsch/3734</guid>
       <pubDate>Wed, 30 Sep 2026 07:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пишите расшифровку в комментариях ⤵</title>
-      <link>https://t.me/C1_Deutsch/3733</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/C1_Deutsch/3733.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-Пишите расшифровку в комментариях ⤵&lt;br&gt;
-&lt;br&gt;
-🔡 У&lt;a href="https://t.me/C1_Deutsch/3305"&gt;&lt;i&gt;читься с нами</description>
-      <guid isPermaLink="false">https://t.me/C1_Deutsch/3733</guid>
-      <pubDate>Wed, 30 Sep 2026 07:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
