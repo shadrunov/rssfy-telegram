@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:24:50 +0000</lastBuildDate>
+    <item>
+      <title>Копия аусвайса сенаторки Уте Бонде и ее электронная подпись оказались в даркн...</title>
+      <link>https://t.me/genau/2877</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2877.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Копия аусвайса сенаторки Уте Бонде и ее электронная подпись оказались в даркнете после хакерской атаки. Тем временем многие берлинские сайты отключены из-за критической уязвимости&lt;br&gt;
+&lt;/b&gt;&lt;br&gt;
+Этот год явно не будет самым удачным в истории берлинского интернета — вспомнить только недавнюю &lt;a href="https://t.me/genau/2654"&gt;хакерскую атаку&lt;/a&gt; на берлинскую администрацию. Оказывается, тогда в сеть &lt;a href="https://www.rbb24.de/politik/beitrag/2026/10/berlin-hackerangriff-verwaltung-darknet-rhysida-daten-senatorin-bonde.html"&gt;попали&lt;/a&gt; чувствительные данные членов городского правительства — например, копия аусвайса городской сенаторки по транспорту Уте Бонде (на фото) и ее электронная подпись. Кроме того, общедоступной оказалась переписка двух предшественниц Бонде на этом посту — Маньи Шрайнер и Беттины Яраш.&lt;br&gt;
+&lt;br&gt;
+Яраш уже сообщила, что стала «жертвой преступления» и назвала коммуникацию со стороны городских властей «катастрофической» — ее оставили саму разбираться с последствиями утечки.&lt;br&gt;
+&lt;br&gt;
+Тем временем важнейшие городские сайты сейчас и так &lt;a href="https://www.tagesspiegel.de/berlin/berliner-polizei-und-weitere-behorden-betroffen-zahlreiche-webseiten-wegen-schwerer-it-sicherheitslucke-weiterhin-offline-16183702.html"&gt;отключены&lt;/a&gt; из-за обнаруженных критических уязвимостей в языке программирования PHP — это, однако, не берлинская, а общемировая проблема. «Лежат» сайты городской полиции (с которого можно было отправить заявление онлайн), некоторые разделы официального городского портала &lt;a href="http://berlin.de/"&gt;&lt;u&gt;berlin.de&lt;/u&gt;&lt;/a&gt;, сайты клиник (включая знаменитую Шарите) и университетов.&lt;br&gt;
+&lt;br&gt;
+Точный подсчет ущерба пока непонятен — как и то, успел ли кто-нибудь воспользоваться уязвимостью для кражи данных.&lt;br&gt;
+&lt;br&gt;
+@genau</description>
+      <guid isPermaLink="false">https://t.me/genau/2877</guid>
+      <pubDate>Thu, 22 Oct 2026 12:54:26 +0000</pubDate>
+    </item>
     <item>
       <title>Берлинский аэропорт отменяет крупные штрафы за опоздавшие рейсы. Это произошл...</title>
       <link>https://t.me/genau/2876</link>
@@ -159,22 +177,6 @@ Cегодня в Берлине канцлер Фридрих Мерц, вице
 @genau</description>
       <guid isPermaLink="false">https://t.me/genau/2860</guid>
       <pubDate>Sat, 17 Oct 2026 12:50:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Германия выиграла чемпионат мира по футболу! Правда, в категории «старше 80 л...</title>
-      <link>https://t.me/genau/2859</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/genau/2859.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Германия выиграла чемпионат мира по футболу! Правда, в категории «старше 80 лет». В сборной — 5 берлинцев&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Только что в австралийском Кливленде &lt;a href="https://www.tagesspiegel.de/berlin/dpa-senioren-fussball-deutsche-u80-senioren-gewinnen-fussball-weltmeisterschaft-16172191.html"&gt;завершился&lt;/a&gt; чемпионат мира по футболу среди спортсменов старше 80 лет — немецкая сборная в финале убедительно превзошла США со счетом 2:0.&lt;br&gt;
-&lt;br&gt;
-Таймы тут продолжаются по 30 минут, и на самом деле четыре игрока из 11, согласно правилам, могут быть немного младше 80 лет. А еще в команде могут играть две женщины! &lt;br&gt;
-&lt;br&gt;
-Особенно сильны в этой категории японцы, у которых есть своя лига возрастных игроков.&lt;br&gt;
-&lt;br&gt;
-@genau</description>
-      <guid isPermaLink="false">https://t.me/genau/2859</guid>
-      <pubDate>Sat, 17 Oct 2026 12:10:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
