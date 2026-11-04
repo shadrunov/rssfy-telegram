@@ -7,7 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 02:53:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:25:37 +0000</lastBuildDate>
+    <item>
+      <title>Во Франкфурт под собственный саундтрек приехал Николаус</title>
+      <link>https://t.me/doch_ffm/642</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/doch_ffm/642.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Во Франкфурт под собственный саундтрек приехал Николаус&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+На Römer уже установили главную рождественскую ёлку города. В этом году её зовут &lt;b&gt;Николаус&lt;/b&gt;, она приехала из австрийского Wald-Königsleiten, весит 6,7 тонны и достигает 27 метров в высоту.&lt;br&gt;
+&lt;br&gt;
+У дерева есть даже собственная песня, специально написанная австрийской певицей (и AI). Правда, с причёской пока не всё идеально: мэр австрийской коммуны пошутил, что ёлку ещё нужно отправить к парикмахеру, чтобы убрать наклон.&lt;br&gt;
+&lt;br&gt;
+Полностью украсить и зажечь её планируют &lt;b&gt;23 ноября&lt;/b&gt;. А мэр Франкфурта Майк Йозеф уже предвкушает традиционные споры о том, красивая ли ёлка. В городе это почти такая же обязательная часть Адвента, как глинтвейн.&lt;br&gt;
+&lt;br&gt;
+Источник: FFH</description>
+      <guid isPermaLink="false">https://t.me/doch_ffm/642</guid>
+      <pubDate>Wed, 04 Nov 2026 09:19:14 +0000</pubDate>
+    </item>
     <item>
       <title>Что происходит после беспорядков во Франкфурте?</title>
       <link>https://t.me/doch_ffm/641</link>
@@ -168,22 +184,6 @@
 Источник: hessenschau</description>
       <guid isPermaLink="false">https://t.me/doch_ffm/625</guid>
       <pubDate>Wed, 28 Oct 2026 08:39:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚇 U7 не доедет до Энкхайма: на выходных её подменит U4</title>
-      <link>https://t.me/doch_ffm/630</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/shadrunov/rssfy-telegram/main/feeds/media/doch_ffm/630.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;🚇 U7 не доедет до Энкхайма: на выходных её подменит U4 &lt;br&gt;
-&lt;/b&gt;&lt;br&gt;
-В эти выходные во Франкфурте снова меняется расписание метро. На этот раз досталось линии U7: из-за кабельных работ, связанных с переустройством путей, она будет ходить только между Heerstraße и Eissporthalle/Festplatz.&lt;br&gt;
-&lt;br&gt;
-Участок от Eissporthalle/Festplatz до Enkheim останется без движения с утра субботы до ночи воскресенья.&lt;br&gt;
-&lt;br&gt;
-Вместо U7 пассажиров будет обслуживать продлённая U4. Все поезда этой линии пойдут от Bockenheimer Warte до Enkheim, включая те, которые обычно заканчивают маршрут на Seckbacher Landstraße.&lt;br&gt;
-&lt;br&gt;
-Тем, кому нужна станция Johanna-Tesch-Platz, предлагают воспользоваться ближайшей станцией U4 Schäfflestraße.</description>
-      <guid isPermaLink="false">https://t.me/doch_ffm/630</guid>
-      <pubDate>Fri, 30 Oct 2026 12:55:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
